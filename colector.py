@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Strânge anunțuri de chimist și fizician medical din eJobs, BestJobs, OLX, posturi.gov.ro și ROmedic
-pentru Brașov, Galați, Ilfov, București, Iași și Covasna, caută reputația firmelor (UndeLucram,
-opțional Google), dă fiecărui anunț un scor și salvează totul în data/joburi.json + data/joburi.js
+"""Strânge anunțuri de chimist și fizician medical din eJobs, BestJobs, OLX, LinkedIn, EduJobs (+ publi24),
+posturi.gov.ro și ROmedic pentru Brașov, Galați, Ilfov, București, Iași și Covasna, caută reputația firmelor
+(UndeLucram, opțional Google), dă fiecărui anunț un scor și salvează totul în data/joburi.json + data/joburi.js
 (citit de index.html).
 
 Rulare: python3 colector.py              (toate sursele + recenzii)
@@ -82,7 +82,8 @@ def cache_get(key, loader, max_zile=None):
 
 def zile_de_la(iso):
     try:
-        return (NOW_DT - datetime.fromisoformat(iso.replace("Z", "+00:00"))).days
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        return (NOW_DT - (dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc))).days  # „2026-09-23” fără oră
     except (ValueError, AttributeError):
         return None
 
@@ -284,8 +285,10 @@ def clasifica(job, firme):
 # ------------------------------------------------------------ localități
 
 def _curata(p):
-    """„Județul Brașov” / „Iași County” / „Ghimbav 507075” / „MUN. IAȘI” -> „brasov”, „iasi”, „ghimbav”, „iasi”."""
-    p = re.sub(r"\b(judetul|judet|jud|municipiul|mun|orasul|oras|comuna|com|county|romania|rumunia)\b\.?|\d+", " ", p)
+    """„Județul Brașov” / „Iași County” / „Ghimbav 507075” / „Zona metropolitană București” -> „brasov”, „iasi”,
+    „ghimbav”, „bucuresti”."""
+    p = re.sub(r"\b(judetul|judet|jud|municipiul|mun|orasul|oras|comuna|com|county|romania|rumunia|zona metropolitana)\b\.?"
+               r"|\d+", " ", p)
     return re.sub(r"\s+", " ", p).strip(" .-")
 
 
@@ -655,8 +658,110 @@ def sursa_romedic():
     return joburi
 
 
+def sursa_edujobs():
+    """EduJobs: puține anunțuri proprii (mai ales din educație), dar preia și anunțurile de pe publi24.ro."""
+    api = "https://back-edujobs.feel-it-services.com/job-postings/query?favoritesFirst=false"
+    gasite = {}
+    for kw in ["chimist", "chimie", "fizician", "fizica medicala"]:
+        for pagina in range(1, 6):
+            d = fetch(api, data={"search": kw, "page": pagina, "limit": 100})
+            for j in d.get("jobPostings") or []:
+                gasite.setdefault(j["id"], (j, False))
+            for j in d.get("scrapedJobs") or []:
+                gasite.setdefault(j["scrapedJobId"], (j, True))
+            if pagina * 100 >= max(d.get("totalJobPosting") or 0, d.get("totalScrapedJobs") or 0):
+                break
+
+    joburi = []
+    for jid, (j, preluat) in gasite.items():
+        titlu = (j.get("title") or "").strip()
+        zone = zone_din_orase([j.get("location") or ""])
+        if not zone or not e_job_potrivit(titlu):
+            continue
+        lo, hi = (int(float(j[k])) if str(j.get(k) or "").replace(".", "").isdigit() else None
+                  for k in ("salaryMin", "salaryMax"))
+        lo, hi = (lo or hi, hi or lo) if (hi or lo or 0) >= 2000 else (None, None)
+        antet = [f"{e}: {j[k]}" for k, e in (("phone", "Telefon"), ("program", "Program"), ("study", "Studii"),
+                                              ("experience", "Experiență")) if j.get(k) and j[k] != "None"]
+        firma = "" if preluat else ((j.get("company") or {}).get("name") or "")
+        joburi.append({
+            "id": f"edujobs:{jid}", "sursa": "publi24" if preluat else "EduJobs", "titlu": titlu,
+            "firma": firma, "firma_confirmata": bool(firma),
+            "orase": [j.get("location") or ""], "zona": zone[0], "zone": zone,
+            "url": j.get("originalUrl") if preluat else f"https://edujobs.ro/job-page/{jid}",
+            "salariu_text": f"{lo} - {hi} lei" if hi else "", "sal_min": lo, "sal_max": hi,
+            "publicat": j.get("date") or j.get("createdAt"), "expira": None,
+            "descriere": ("\n".join(antet) + "\n" + text_din_html(j.get("description") or ""))[:4000],
+        })
+    print(f"   EduJobs / publi24: {len(gasite)} anunțuri găsite la căutare, {len(joburi)} potrivite în județele alese")
+    return joburi
+
+
+def _camp(rx, s):
+    m = re.search(rx, s, re.S)
+    return text_din_html(m.group(1)) if m else ""
+
+
+def linkedin_detalii(jid):
+    s = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{jid}", as_json=False)
+    criterii = re.findall(r'job-criteria-subheader">(.*?)</h3>\s*<span class="description__job-criteria-text[^"]*">(.*?)</span>',
+                          s, re.S)
+    antet = [f"{text_din_html(k)}: {text_din_html(v)}" for k, v in criterii]
+    return {"descriere": "\n".join(antet) + "\n" + _camp(r'show-more-less-html__markup[^>]*>(.*?)</div>\s*(<button|</section>|$)', s)}
+
+
+def sursa_linkedin():
+    """LinkedIn, fără cont (căutarea publică). Caută „larg” (farmaciști, medici…), așa că filtrăm după titlu și județ."""
+    api = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+    carduri = {}
+    for loc in ["Brașov, Romania", "Galați, Romania", "Ilfov, Romania", "Bucharest, Romania", "Iași, Romania",
+                "Covasna, Romania"]:
+        for kw in ["chimist", "chemist", "inginer chimist", "fizician medical", "medical physicist"]:
+            for start in (0, 10, 20):
+                try:
+                    s = fetch(api + "?" + urllib.parse.urlencode({"keywords": kw, "location": loc, "start": start}),
+                              as_json=False, retries=2 if start == 0 else 0)
+                except Exception:  # noqa: BLE001 - după ultima pagină LinkedIn poate da eroare
+                    if start == 0:
+                        raise
+                    break
+                bucati = s.split('data-entity-urn="urn:li:jobPosting:')[1:]
+                for c in bucati:
+                    jid = c.split('"', 1)[0]
+                    titlu = _camp(r'base-search-card__title">(.*?)</h3>', c)
+                    if jid in carduri or not e_job_potrivit(titlu):
+                        continue
+                    carduri[jid] = {"titlu": titlu, "firma": _camp(r'base-search-card__subtitle">(.*?)</h4>', c),
+                                    "loc": _camp(r'job-search-card__location">(.*?)</span>', c),
+                                    "salariu": _camp(r'job-search-card__salary-info">(.*?)</span>', c),
+                                    "data": (re.search(r'datetime="([\d-]+)"', c) or [None, None])[1]}
+                if len(bucati) < 10:
+                    break
+        print(f"   LinkedIn {loc}: total {len(carduri)} relevante")
+
+    joburi = []
+    for jid, c in carduri.items():
+        zone = zone_din_orase([c["loc"]])
+        if not zone:
+            continue  # „România” (remote) sau alt județ din jur
+        try:
+            det = cache_get(f"linkedin_{jid}", lambda: linkedin_detalii(jid))
+        except Exception as e:  # noqa: BLE001
+            print(f"   ! detalii LinkedIn {jid}: {e}")
+            det = {"descriere": ""}
+        lo, hi = parse_salariu(c["salariu"])
+        joburi.append({
+            "id": f"linkedin:{jid}", "sursa": "LinkedIn", "titlu": c["titlu"],
+            "firma": c["firma"], "firma_confirmata": bool(c["firma"]),
+            "orase": [c["loc"]], "zona": zone[0], "zone": zone, "url": f"https://ro.linkedin.com/jobs/view/{jid}",
+            "salariu_text": c["salariu"], "sal_min": lo, "sal_max": hi,
+            "publicat": c["data"], "expira": None, "descriere": det["descriere"][:4000],
+        })
+    return joburi
+
+
 SURSE = {"ejobs": sursa_ejobs, "bestjobs": sursa_bestjobs, "olx": sursa_olx, "posturi": sursa_posturi,
-         "romedic": sursa_romedic}
+         "romedic": sursa_romedic, "linkedin": sursa_linkedin, "edujobs": sursa_edujobs}
 # surse unde se aplică direct la angajator / fără cont; la dubluri, ele câștigă
 SURSE_DIRECTE = {"posturi.gov.ro", "ROmedic"}
 

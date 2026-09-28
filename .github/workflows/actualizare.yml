@@ -24,7 +24,7 @@ jobs:
       # colectorul prinde singur erorile fiecărei surse; dacă pică tot, pagina rămâne cu datele de ieri
       # OLX și ROmedic blochează serverele GitHub: ele se iau de pe PC (sincronizare-olx.sh)
       - name: Adună anunțurile
-        run: python3 colector.py ejobs bestjobs posturi recenzii
+        run: python3 colector.py ejobs bestjobs posturi linkedin edujobs recenzii
       - name: Salvează datele
         run: |
           git config user.name "actualizare-automata"

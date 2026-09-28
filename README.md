@@ -1,7 +1,8 @@
 # Joburi chimist / fizician medical: Brașov, Galați, Ilfov, București, Iași, Covasna
 
 Strânge zilnic anunțurile de **chimist** (chimist specialist / principal, inginer chimist, analist chimist) și
-**fizician medical** de pe **eJobs, BestJobs, OLX, posturi.gov.ro și ROmedic**, le dă un scor și le afișează
+**fizician medical** de pe **eJobs, BestJobs, OLX, LinkedIn, EduJobs (+ publi24), posturi.gov.ro și ROmedic**,
+le dă un scor și le afișează
 într-o pagină cu filtre (post, județe, salariu, anunțuri noi).
 
 - `./actualizeaza.sh` descarcă anunțurile noi (câteva minute; descrierile se țin în cache).
@@ -14,6 +15,8 @@ Strânge zilnic anunțurile de **chimist** (chimist specialist / principal, ingi
 |---|---|---|
 | eJobs, BestJobs | firme private (laboratoare, fabrici, farma) | cont gratuit pe site |
 | OLX | anunțuri mici | de obicei se sună direct |
+| LinkedIn | firme mari, farma, echipamente medicale (căutarea publică, fără cont) | cont LinkedIn sau site-ul firmei |
+| EduJobs | puține anunțuri proprii (educație) + anunțurile preluate de pe publi24.ro | publi24: de obicei telefon |
 | posturi.gov.ro | concursurile de la stat: spitale, DSP, laboratoare publice (portalul oficial, HG 1336/2022) | dosar la unitate, până la data limită |
 | ROmedic | joburi medicale din clinici și laboratoare private | fără cont, butonul „Aplică” |
 
@@ -46,17 +49,17 @@ Excluse automat: joburi în străinătate.
 
 ## Comenzi
 - `python3 colector.py`: totul (anunțuri + recenzii)
-- `python3 colector.py posturi romedic`: doar unele surse (`ejobs`, `bestjobs`, `olx`, `posturi`, `romedic`)
+- `python3 colector.py posturi romedic`: doar unele surse (`ejobs`, `bestjobs`, `olx`, `linkedin`, `edujobs`, `posturi`, `romedic`)
 - `python3 colector.py recenzii --fortat`: reface recenziile
 - `python3 colector.py reclasifica`: recalculează scorurile după o schimbare de reguli, fără descărcări
 
 Salvatele, aplicările și notițele stau în browser (localStorage); „Setări avansate” → „Salvează notițele” face o copie.
-Indeed, Jooble și LinkedIn blochează accesul automat, așa că nu sunt incluse. Viața Medicală preia anunțurile tot de pe
+Indeed și Jooble blochează accesul automat („Security Check”), așa că nu sunt incluse. Viața Medicală preia anunțurile tot de pe
 posturi.gov.ro și ms.ro, deci nu aduce nimic în plus.
 
 ## Online
 - Site: https://vladbranoiu.github.io/joburi-chimist-fizician/ (GitHub Pages, din branch-ul `main`).
-- **GitHub Actions** (`.github/workflows/actualizare.yml`) rulează zilnic la 04:00 UTC: eJobs, BestJobs, posturi.gov.ro și recenziile.
+- **GitHub Actions** (`.github/workflows/actualizare.yml`) rulează zilnic la 04:00 UTC: eJobs, BestJobs, LinkedIn, EduJobs, posturi.gov.ro și recenziile.
   Se poate porni și manual din tabul Actions → „Actualizare anunțuri” → Run workflow.
 - **OLX și ROmedic blochează serverele GitHub**, așa că ele se actualizează de pe PC: sarcina Windows „Joburi chimist - OLX”
   (zilnic la 10:05 și la logare) rulează `sincronizare-olx.sh` într-o copie separată (`~/.local/share/joburi-chimist-sync`).
