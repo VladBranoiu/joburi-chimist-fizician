@@ -1,0 +1,106 @@
+{
+  "curs_eur_ron": 5.05,
+  "judete": {
+    "_explicatie": "bonus = puncte în plus pentru un job din județul respectiv (egale = niciun județ preferat)",
+    "brasov": {
+      "eticheta": "Brașov",
+      "bonus": 10,
+      "localitati": [
+        "Brașov", "Făgăraș", "Săcele", "Codlea", "Zărnești", "Râșnov", "Victoria", "Rupea", "Predeal",
+        "Ghimbav", "Hărman", "Prejmer", "Sânpetru", "Bod", "Feldioara", "Hălchiu", "Tărlungeni", "Hoghiz",
+        "Crizbav", "Budila", "Teliu", "Apața", "Măieruș", "Ormeniș", "Șinca", "Șinca Nouă", "Voila", "Ucea",
+        "Mândra", "Poiana Mărului", "Bran", "Moieciu", "Fundata", "Poiana Brașov", "Șercaia", "Vama Buzăului",
+        "Cața", "Jibert", "Ungra", "Racoș", "Lisa", "Drăguș", "Sâmbăta de Sus", "Hârseni", "Părău", "Viștea",
+        "Cincu", "Șoarș", "Augustin", "Holbav"
+      ]
+    },
+    "galati": {
+      "eticheta": "Galați",
+      "bonus": 10,
+      "localitati": [
+        "Galați", "Tecuci", "Târgu Bujor", "Berești", "Matca", "Liești", "Pechea", "Cudalbi", "Tulucești",
+        "Șendreni", "Cosmești", "Umbrărești", "Nicorești", "Costache Negri", "Corod", "Fârțănești", "Frumușița",
+        "Slobozia Conachi", "Piscu", "Valea Mărului", "Bălăbănești", "Bălășești", "Barcea", "Berești-Meria",
+        "Cavadinești", "Cerțești", "Foltești", "Ghidigeni", "Gohor", "Jorăști", "Măstăcani", "Oancea",
+        "Priponești", "Rădești", "Scânteiești", "Suceveni", "Suhurlui", "Țepu", "Vârlezi"
+      ]
+    },
+    "ilfov": {
+      "eticheta": "Ilfov",
+      "bonus": 10,
+      "localitati": [
+        "Otopeni", "Tunari", "Balotești", "Corbeanca", "Snagov", "Ștefăneștii de Jos", "Afumați", "Mogoșoaia",
+        "Chitila", "Buftea", "Dragomirești", "Dragomirești-Deal", "Dragomirești-Vale", "Chiajna",
+        "Popești-Leordeni", "Pantelimon", "Voluntari", "Dascălu", "Moara Vlăsiei", "Ciorogârla", "Bragadiru",
+        "Măgurele", "Jilava", "Berceni", "Cernica", "Glina", "Domnești", "Clinceni", "Cornetu", "Copăceni",
+        "Vidra", "1 Decembrie", "Dărăști-Ilfov", "Găneasa", "Brănești", "Periș", "Ciolpani", "Gruiu", "Nuci",
+        "Petrăchioaia", "Grădiștea", "Căldărușani", "Săftica", "Bolintin-Deal"
+      ]
+    },
+    "bucuresti": {
+      "eticheta": "București",
+      "bonus": 10,
+      "localitati": ["București", "Bucharest"]
+    },
+    "iasi": {
+      "eticheta": "Iași",
+      "bonus": 10,
+      "localitati": [
+        "Iași", "Pașcani", "Hârlău", "Târgu Frumos", "Podu Iloaiei", "Miroslava", "Tomești", "Valea Lupului",
+        "Ciurea", "Bârnova", "Holboca", "Aroneanu", "Rediu", "Lețcani", "Popricani", "Horlești", "Răducăneni",
+        "Dobrovăț", "Schitu Duca", "Belcești", "Cotnari", "Erbiceni", "Grajduri", "Mogoșești", "Bivolari",
+        "Țuțora", "Golăiești", "Comarna", "Costuleni", "Dumești", "Răchiteni", "Mircești", "Ruginoasa",
+        "Sirețel", "Strunga", "Lungani", "Gorban", "Prisăcani", "Țibana", "Țibănești", "Ipatele", "Bălțați",
+        "Probota", "Hălăucești", "Heleșteni", "Tansa", "Focuri", "Coarnele Caprei", "Andrieșeni",
+        "Alexandru Ioan Cuza", "Ciortești", "Mironeasa", "Ciohorăni"
+      ]
+    },
+    "covasna": {
+      "eticheta": "Covasna",
+      "bonus": 10,
+      "localitati": [
+        "Covasna", "Sfântu Gheorghe", "Târgu Secuiesc", "Baraolt", "Întorsura Buzăului", "Arcuș", "Bățani",
+        "Belin", "Boroșneu Mare", "Brăduț", "Brateș", "Brețcu", "Catalina", "Cernat", "Chichiș", "Comandău",
+        "Dalnic", "Ghelința", "Ghidfalău", "Hăghig", "Ilieni", "Lemnia", "Malnaș", "Micfalău", "Moacșa",
+        "Ojdula", "Ozun", "Poian", "Reci", "Sânzieni", "Sita Buzăului", "Turia", "Valea Crișului", "Vârghiș",
+        "Zagon", "Zăbala", "Estelnic", "Barcani", "Aita Mare"
+      ]
+    }
+  },
+  "firme_preferate": [
+    "synevo",
+    "regina maria",
+    "medlife",
+    "medicover",
+    "bioclinica",
+    "sanador",
+    "affidea",
+    "neolife",
+    "amethyst",
+    "antibiotice",
+    "zentiva",
+    "terapia",
+    "biofarm"
+  ],
+  "recenzii_potrivire_manuala": {
+    "_explicatie": "nume firmă din anunț -> id UndeLucram (număr) sau \"nu\" dacă potrivirea automată e greșită"
+  },
+  "google_places_api_key": "",
+  "cuvinte_cautare": {
+    "bestjobs": [
+      "chimist",
+      "chemist",
+      "fizician medical",
+      "medical physicist"
+    ],
+    "bestjobs_locatii": [
+      "brasov",
+      "galati",
+      "ilfov",
+      "bucuresti",
+      "iasi",
+      "covasna"
+    ]
+  },
+  "pauza_intre_cereri_sec": 0.7
+}
