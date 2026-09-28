@@ -56,9 +56,10 @@ posturi.gov.ro și ms.ro, deci nu aduce nimic în plus.
 
 ## Online
 - Site: https://vladbranoiu.github.io/joburi-chimist-fizician/ (GitHub Pages, din branch-ul `main`).
-- **GitHub Actions** (`.github/workflows/actualizare.yml`) rulează zilnic la 04:00 UTC: toate sursele în afară de OLX, plus recenziile.
+- **GitHub Actions** (`.github/workflows/actualizare.yml`) rulează zilnic la 04:00 UTC: eJobs, BestJobs, posturi.gov.ro și recenziile.
   Se poate porni și manual din tabul Actions → „Actualizare anunțuri” → Run workflow.
-- **OLX blochează serverele GitHub**, așa că OLX se actualizează de pe PC: sarcina Windows „Joburi chimist - OLX”
-  (zilnic la 10:00 și la logare) rulează `sincronizare-olx.sh` într-o copie separată (`~/.local/share/joburi-chimist-sync`).
-  Jurnal: `~/.local/share/joburi-chimist-sync.log`. Dacă PC-ul stă oprit, anunțurile OLX dispar treptat în 14 zile, iar restul merge normal.
+- **OLX și ROmedic blochează serverele GitHub**, așa că ele se actualizează de pe PC: sarcina Windows „Joburi chimist - OLX”
+  (zilnic la 10:05 și la logare) rulează `sincronizare-olx.sh` într-o copie separată (`~/.local/share/joburi-chimist-sync`).
+  Jurnal: `~/.local/share/joburi-chimist-sync.log`. Dacă PC-ul stă oprit, anunțurile OLX și ROmedic dispar treptat în 14 zile
+  (sau la data lor de expirare), iar restul merge normal.
 - Înainte să modifici ceva local: `git pull` (datele se schimbă zilnic pe GitHub).
