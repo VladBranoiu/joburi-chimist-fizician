@@ -1220,6 +1220,13 @@
     "romedic": "eroare: HTTP 403 la https://www.romedic.ro/joburi.php?active=1&cauta=chimist&start=1",
     "recenzii": 24
    }
+  },
+  {
+   "data": "2026-09-28T08:22:45+00:00",
+   "surse": {
+    "olx": 0,
+    "romedic": 0
+   }
   }
  ],
  "firme": {
@@ -1462,5 +1469,5 @@
    "google": null
   }
  },
- "actualizat": "2026-09-28T08:18:25+00:00"
+ "actualizat": "2026-09-28T08:22:45+00:00"
 }
