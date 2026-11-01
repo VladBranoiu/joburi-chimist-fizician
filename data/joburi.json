@@ -41,7 +41,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (50 zile), poate e deja ocupat"
+     "t": "Anunț vechi (51 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -325,7 +325,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (50 zile), poate e deja ocupat"
+     "t": "Anunț vechi (51 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -387,7 +387,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (60 zile), poate e deja ocupat"
+     "t": "Anunț vechi (61 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1182,9 +1182,13 @@
     {
      "p": 0,
      "t": "Salariul nu e scris în anunț"
+    },
+    {
+     "p": -4,
+     "t": "Anunț vechi (46 zile), poate e deja ocupat"
     }
    ],
-   "scor": 60,
+   "scor": 56,
    "verdict": "Merită verificat",
    "exclus": null,
    "firma_cheie": "spitalul clinic de urgenta pentru copii m s curie bucuresti"
@@ -1296,7 +1300,7 @@
    "descriere": "Program: Necesita munca in ture de noapte\nStudii superioare in urmatoarele domenii: chimie, microbiologie, tehnologie alimentare sau proaspat absolvent in domeniile mentionate anterior︋︀︍︂︂︆︂︆​︂︆︄︅​︁︁︎︌​︈︂︇︍​︈︆︅️︊︄︈︌︊︎︂︎\n Persoana organizata, atenta la detalii\n Capacitatea de a lucra independent precum si in echipa\n Abilitati de comunicare si relationare\n Descrierea jobului \n • Respecta standardele de laborator.\n • Efectueaza analizele stabilite prin instrucțiunile de lucru pentru materii prime, produs finit, materiale auxiliare.\n • Respecta planul de autocontrol stabilit.\n • Verifica metrologic conform planului de verificări aparatele de masură și control din laborator.\n • Completeaza corect și la timp rapoartele specifice activității tale.\n • Raporteaza deviatiile constatate in urma determinarilor efectuate\n De ce să lucrezi cu noi?\n Ai oportunitatea de a lucra intr-o echipa de experti in industria alimentara unde opinia ta va intotdeauna luata in calcul.\n Ai oportunitatea de a lucra impreuna cu echipa de profesionisti a laboratorului fabricii\n Ai sansa sa fii parte din echipa implicata in validari de proiecte si instalatii noi Iti oferim oportunitati de dezvoltare profesionala\n Beneficiile acordate pentru rolul tau sunt: salariu motivant, buget flexibil de beneficii in valoare de 600 lei lunar, bonus semestrial in functie de atingerea obiectivelor, asigurare medicala Medlife, transport asigurat pe rute fixe in Bucuresti, prima de Paste si Craciun, 24 de zile concediu de odihna plus 1 zi libera platita in luna cu data nasteri\n Daca te potrivesti cu aceasta descriere, te invitam sa ne cunoastem!",
    "prima_data": "2026-10-01T04:49:27+00:00",
    "ultima_data": "2026-10-24T11:37:04+00:00",
-   "activ": true,
+   "activ": false,
    "sal_din_descriere": false,
    "tip": "chimist",
    "etichete": [
@@ -1323,8 +1327,7 @@
    "scor": 44,
    "verdict": "Slab",
    "exclus": null,
-   "firma_cheie": "teamland",
-   "dublura_lui": "bestjobs:52072370"
+   "firma_cheie": "teamland"
   },
   "romedic:19340": {
    "id": "romedic:19340",
@@ -1347,7 +1350,7 @@
    "expira": "2027-09-28T23:59:59",
    "descriere": "Telefon: 0721546532\nCentrul Medical Medicor , angajeaza biochimist , biolog , chimist , cu sau fara experienta . CV la [email protected] \n Cerințe\n Program cu norma intreaga 8 ore",
    "prima_data": "2026-10-01T04:49:27+00:00",
-   "ultima_data": "2026-10-24T11:37:04+00:00",
+   "ultima_data": "2026-11-01T10:17:59+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -1369,7 +1372,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (1871 zile), poate e deja ocupat"
+     "t": "Anunț vechi (1872 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -1571,12 +1574,8 @@
    "verdict": "Merită verificat",
    "exclus": null,
    "firma_cheie": "teamland",
-   "si_in": [
-    "Bucuresti"
-   ],
-   "alte_surse": [
-    "OLX"
-   ]
+   "si_in": [],
+   "alte_surse": []
   },
   "posturi:41075": {
    "id": "posturi:41075",
@@ -2601,6 +2600,13 @@
     "edujobs": 0,
     "recenzii": 24
    }
+  },
+  {
+   "data": "2026-11-01T10:17:59+00:00",
+   "surse": {
+    "olx": 0,
+    "romedic": 1
+   }
   }
  ],
  "firme": {
@@ -2909,5 +2915,5 @@
    "google": null
   }
  },
- "actualizat": "2026-10-31T10:07:52+00:00"
+ "actualizat": "2026-11-01T10:17:59+00:00"
 }
