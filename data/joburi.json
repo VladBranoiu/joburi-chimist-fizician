@@ -434,7 +434,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (50 zile), poate e deja ocupat"
+     "t": "Anunț vechi (51 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1143,9 +1143,13 @@
     {
      "p": 0,
      "t": "Salariul nu e scris în anunț"
+    },
+    {
+     "p": -4,
+     "t": "Anunț vechi (46 zile), poate e deja ocupat"
     }
    ],
-   "scor": 60,
+   "scor": 56,
    "verdict": "Merită verificat",
    "exclus": null,
    "firma_cheie": "sistemul de gospodarire a apelor brasov"
@@ -1189,7 +1193,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (52 zile), poate e deja ocupat"
+     "t": "Anunț vechi (53 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1234,7 +1238,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1281,7 +1285,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1362,7 +1366,7 @@
    "expira": "2027-09-28T23:59:59",
    "descriere": "Telefon: 0721546532\nCentrul Medical Medicor , angajeaza biochimist , biolog , chimist , cu sau fara experienta . CV la [email protected] \n Cerințe\n Program cu norma intreaga 8 ore",
    "prima_data": "2026-10-01T04:49:27+00:00",
-   "ultima_data": "2026-11-07T11:59:24+00:00",
+   "ultima_data": "2026-11-08T07:05:10+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -1384,7 +1388,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (1878 zile), poate e deja ocupat"
+     "t": "Anunț vechi (1879 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -2296,17 +2300,6 @@
  },
  "rulari": [
   {
-   "data": "2026-09-28T08:18:25+00:00",
-   "surse": {
-    "ejobs": 8,
-    "bestjobs": 14,
-    "olx": "eroare: HTTP 403 la https://www.olx.ro/api/v1/offers/?offset=0&limit=50&category_id=4&region_id=4&query=chimis",
-    "posturi": 2,
-    "romedic": "eroare: HTTP 403 la https://www.romedic.ro/joburi.php?active=1&cauta=chimist&start=1",
-    "recenzii": 24
-   }
-  },
-  {
    "data": "2026-09-28T08:22:45+00:00",
    "surse": {
     "olx": 0,
@@ -2882,6 +2875,13 @@
     "olx": 0,
     "romedic": 1
    }
+  },
+  {
+   "data": "2026-11-08T07:05:10+00:00",
+   "surse": {
+    "olx": 0,
+    "romedic": 1
+   }
   }
  ],
  "firme": {
@@ -3224,5 +3224,5 @@
    "google": null
   }
  },
- "actualizat": "2026-11-07T11:59:24+00:00"
+ "actualizat": "2026-11-08T07:05:10+00:00"
 }
