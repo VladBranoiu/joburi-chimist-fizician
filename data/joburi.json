@@ -387,7 +387,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (71 zile), poate e deja ocupat"
+     "t": "Anunț vechi (72 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -434,7 +434,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (54 zile), poate e deja ocupat"
+     "t": "Anunț vechi (55 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1366,7 +1366,7 @@
    "expira": "2027-09-28T23:59:59",
    "descriere": "Telefon: 0721546532\nCentrul Medical Medicor , angajeaza biochimist , biolog , chimist , cu sau fara experienta . CV la [email protected] \n Cerințe\n Program cu norma intreaga 8 ore",
    "prima_data": "2026-10-01T04:49:27+00:00",
-   "ultima_data": "2026-11-09T17:35:39+00:00",
+   "ultima_data": "2026-11-11T15:07:11+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3528,13 +3528,6 @@
  },
  "rulari": [
   {
-   "data": "2026-10-01T04:49:27+00:00",
-   "surse": {
-    "olx": 1,
-    "romedic": 1
-   }
-  },
-  {
    "data": "2026-10-01T10:39:38+00:00",
    "surse": {
     "ejobs": 7,
@@ -4114,6 +4107,13 @@
     "edujobs": 0,
     "recenzii": 48
    }
+  },
+  {
+   "data": "2026-11-11T15:07:11+00:00",
+   "surse": {
+    "olx": 0,
+    "romedic": 1
+   }
   }
  ],
  "firme": {
@@ -4634,5 +4634,5 @@
    "google": null
   }
  },
- "actualizat": "2026-11-11T11:38:38+00:00"
+ "actualizat": "2026-11-11T15:07:11+00:00"
 }
