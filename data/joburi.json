@@ -41,7 +41,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (64 zile), poate e deja ocupat"
+     "t": "Anunț vechi (65 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -216,9 +216,13 @@
     {
      "p": 0,
      "t": "Angajații dau firmei nota 3,4 din 5 (155 păreri pe UndeLucram)"
+    },
+    {
+     "p": -4,
+     "t": "Anunț vechi (46 zile), poate e deja ocupat"
     }
    ],
-   "scor": 74,
+   "scor": 70,
    "verdict": "Potrivit",
    "exclus": null,
    "firma_cheie": "synevo",
@@ -325,7 +329,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (63 zile), poate e deja ocupat"
+     "t": "Anunț vechi (64 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -434,7 +438,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (56 zile), poate e deja ocupat"
+     "t": "Anunț vechi (57 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -481,7 +485,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 50,
@@ -512,7 +516,7 @@
    "expira": null,
    "descriere": "CANDIDATUL IDEAL: \n Absolvent studii superioare de specialitate \n Calificari in domeniul analizei apei, solului, aerului (imisii, emisii de la surse fixe) si zgomotului \n Cunoasterea metodelor generale de analize fizico-chimice , a modului de lucru si echipamentelor specifice unui laborator de incercari \n Cunoştinţe operare PC: Microsoft Office (Word, Excel, Powerpoint) \n Persoana responsabilarganizata, concentrata pe calitatea muncii. \n RESPONSABILITĂŢI: \n efectueaza incercari pe apa de suprafata, apa uzata, apa subterana (ph, conductivitate, oxigen dizolvat, reziduu, MTS, substante extractibile, alcalinitate, cloruri, suma de calciu si magneziu, indice de permanganat, amoniu, azotiti, sulfati, fosfati, produse petroliere, detergenti sintetici, bioxid de carbon liber si agresiv, metale grele, etc. ) \n efectueaza incercari pe sol (ph, conductivitate, metale grele, sulfati, aciditate Baumann - Gully, carbonati, produse petroliere \n efectueaza incercari pe aer- imisii ( NO2, SO2, PM10 ) \n completeaza documentatia specifica unul laborator RENAR \n efectueaza diagrame de control \n prepara solutiile necesare incercarilor \n elaboreaza instructiuni de lucru siroceduri \n DESCRIEREA COMPANIEI: \n - Studii Geotehnice; \n - Rapoarte de monitorizare mediu si studii de impact asupra mediului; \n - Laborator de Mediu; \n - Laborator Central de Geosintetice; \n - Laborator de Analize si Încercări în Construcţii. \n BENEFICII: \n - Contract individual de munca; \n - Salariu fix; \n - Training de specialitate; \n - Suport, de la persoane cu experienta, in desfasurarea proiectului; \n - Posibilitatea de dezvoltare profesionala pe baza realizarilor.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -532,7 +536,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 50,
@@ -563,7 +567,7 @@
    "expira": null,
    "descriere": "Descrierea job-ului \n Simti nevoia de o provocare? \n Vrei sa te dezvolti si in acelasi timp sa iti pui in practica si cunostintele dobandite pana acum? \n Alaturi de noi, poti realiza aceste lucruri! \n Mai jos sunt caracteristicile pe care trebuie sa le indeplinesti pentru a putea face parte din echipa noastra: \n - Diploma absolvire facultate de chimie sau inginerie chimica \n - Minim 1 an experienta in domeniul cromatografiei-constituie un avantaj \n - Experienta in determinarile fizico-chimice, cromatografice \n - Experienta si eficienta in operarea echipamentelor de laborator \n - Experienta de lucru in tehnici de cromatografie (HPLC, LC-MS/MS, GC-MS/MS) \n - Abilitati de planificare si organizare \n - Atentie excelenta la detalii, gandire critica pentru evaluarea rezultatelor calitative si cantitative, obtinute in urma determinarilor \n - Capacitatea de a solicita informatii pentru rezolvarea corecta si eficienta a task-urilor \n - Capacitate de lucru in echipa, onestitate si sociabilitate \n - Abilitati de operare calculator si bune cunostinte de engleza \n Responsabilitati: \n - Analize cromatografice calitative/cantitative ale diferitelor matrici (fructe, legume, materie vegetala si sol), utilizand echipamente de tipul HPLC, LC-MSMS, GC-MSMS; \n - Validarea metodelor analitice HPLC/GC/ICP-MS/UV-VIS, de determinare a reziduurilor de pesticide si a metalelor; \n - Participarea la elaborarea Procedurilor Operationale/diverselor documente necesare pentru acreditarea RENAR; \n - Semnalarea necesitatii achizitionarii de reactivi, solutii titrare, coloane cromatografice, materiale de referinta certificate, accesorii de laborator, sticlarie si alte materiale necesare desfasurarii unei activitati continue in laboratorul de reziduuri de pesticide.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -579,7 +583,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -610,7 +614,7 @@
    "expira": null,
    "descriere": "Specialist Controlul Calității/ Analist Chimist \n Dacă ești pasionat de analize HPLC și îți dorești să lucrezi într-un mediu dinamic și inovator, atunci ești candidatul perfect pentru rolul de Specialist Controlul Calității/ Analist Chimist din cadrul Zentiva! Aplică acum și alătură-te echipei noastre!! \n Vei avea oportunitatea să: \n Efectuezi analize fizico-chimice pentru a verifica calitatea produselor finite sau studiile de stabilitate, conform principiilor GMP; \n Verifici și calibrezi periodic echipamentele de laborator conform procedurilor interne și instrucțiunilor de lucru; \n Întocmești documentația specifică activităților din laborator; \n Utilizezi sistemul informatic LIMS pentru efectuarea analizelor fizico-chimice. \n Vei iubi acest rol și vei avea succes în el dacă ai: \n Experiență solidă în controlul calității (minim 3 ani) în industria farmaceutică; \n Cunoștințe avansate de cromatografie lichidă de înaltă performanță și experiență cu HPLC; \n Abilități analitice și capacitatea de a lucra cu precizie și atenție la detalii; \n Cunoașterea standardelor RBPF și EHS; \n Cunoștințe de limba engleză - nivel mediu; \n Cunoștințe intermediare de operare PC (MS Word, MS Excel); \n Capacitatea de a analiza și sintetiza informații; \n Rezistență la lucrul sub presiune și dorința de a învăța lucruri noi; \n Flexibilitate și bune abilități de comunicare; \n Studii superioare (Chimie, Inginerie Chimică). \n Îți promitem că vei avea succesul tău propriu. Îți vom oferi libertatea și autonomia de a-ți modela munca, de a lua decizii cheie și de a-ți asuma succesul. Avem încredere că vei conduce, inova și avea un impact din prima zi. \n De asemenea, îți vom oferi: \n Bonusuri de performanță și fidelitate; \n Tichete de masă și de vacanță; \n Abonament medical și asigurare de viață; \n Beneficii flexibile și prime de Paște și Crăciun; \n Traininguri și oportunități de dezvoltare continuă; \n Participarea la evenimente și activități de echipă. \n Procesul nostru de recrutare: Pentru a fi luat în considerare pentru acest rol, te rugăm să aplici în sistemul nostru de urmărire a aplicațiilor și să eviți trimiterea CV-ului prin e-mail. După finalizarea perioadei de colectare a aplicațiilor, toate candidaturile vor fi evaluate de experții noștri în recrutare și analizate în funcție de nevoile rolului deschis. Candidații selectați vor fi contactați pentru un interviu preliminar, în care vom detalia următoarele etape ale procesului de recrutare. Candidații care nu vor fi selectați vor fi informați în scris cât mai curând posibil. \n Diversitatea este un fapt. Incluziunea este o acțiune Zentiva \n La Zentiva, suntem o echipă de 5000 de talente unice, unite de scopul nostru de a oferi sănătate și bunăstare tuturor generațiilor. Ne străduim zilnic să creăm o cultură a muncii în care fiecare să se simtă apreciat, să fie autentic și să contribuie la cel mai înalt nivel. În căutarea echilibrului în cadrul echipei, primim cu brațele deschise candidaturi din partea tuturor persoanelor calificate, indiferent de experiențele educaționale sau din industrie, originea etnică, religioasă sau orice alte diferențe. \n Alătură-te echipei noastre câștigătoare! Fii parte din cultura noastră de succes! Fii Zentiva!",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -646,7 +650,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 74,
@@ -677,7 +681,7 @@
    "expira": null,
    "descriere": "Chimist/ Inginer chimist \n Compania noastră caută un Chimist/ Inginer chimist pentru a se alătura echipei din domeniul Calității Produselor Textile. Dacă ești o persoană cu o abordare analitică, această poziție ar putea fi potrivită pentru tine. \n Responsabilități: \n Realizarea de teste și analize chimice pentru determinarea calității produselor textile \n Participarea activă la proiectele de dezvoltare a metodelor de laborator în domeniul materialelor textile \n Documentarea rezultatelor și raportarea acestora \n Cerințe: \n Licență în Chimie/ Inginerie chimică \n Experiență anterioară într-un rol similar reprezintă un avantaj \n Abilități de comunicare și lucru în echipă \n Capacitatea de a lucra sub presiune și de a respecta termene limită \n Atenție la detalii și orientare către rezultate \n Beneficii: \n Oportunitatea de a lucra într-un mediu dinamic și în continuă dezvoltare \n Posibilitatea de a contribui la extinderea laboratorului \n Pachet salarial motivant și beneficii atractive \n Dacă ești pasionat de chimie și vrei să faci parte dintr-o echipă tânără și dinamică, te invităm să aplici pentru poziția de Chimist în cadrul companiei noastre.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -693,7 +697,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 62,
@@ -724,7 +728,7 @@
    "expira": null,
    "descriere": "Căutăm un Biolog, Chimist sau Biochimist responsabil și atent la detalii, pentru activitate în cadrul laboratorului de analize medicale. Rolul presupune efectuarea și validarea analizelor de laborator conform competențelor, operarea echipamentelor specifice, respectarea procedurilor de lucru și asigurarea calității rezultatelor furnizate pacienților și medicilor. \n Cerințe: \n Studii superioare de specialitate finalizate; \n Autorizație de liberă practică valabilă, conform legislației în vigoare; \n Cunoștințe de utilizare a aparaturii și sistemelor informatice de laborator; \n Atenție la detalii, responsabilitate și spirit de echipă. \n Oferim: \n Mediu de lucru modern și profesionist; \n Acces la echipamente performante și programe de dezvoltare profesională; \n Pachet salarial competitiv și beneficii atractive. \n Dacă îți dorești să contribui la furnizarea unor rezultate de încredere și la îmbunătățirea îngrijirii pacienților, te invităm să te alături echipei noastre.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -744,7 +748,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 52,
@@ -775,7 +779,7 @@
    "expira": null,
    "descriere": "BIOLOG- BIOCHIMIST: \n - Studii superioare de specialitate finalizate în domeniul biologiei/biochimiei \n - Foarte bune abilitati de comunicare \n - Autorizatie de libera practica medicala/certificat de membru vizat la zi \n - Orientare catre pacient \n - Capacitate de lucru in echipa \n - Cunostinte operare PC \n - Efectuarea de analize medicale specifice postului \n - Verificarea si la nevoie, validarea rezultatelor analizelor efectuate \n - Participarea la sistemul de management al controlului de calitate \n - Capacitate de coordonare şi rigurozitate \n - capacitate de analiză şi sinteză \n Departamentele de desfasurarea a activitatii sunt: \n -hematologie, hemostaza, biochimia urinei, electroforeza \n Constituie avantaj: \n - experienta de lucru intr-un laborator acreditat",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -791,7 +795,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 62,
@@ -822,7 +826,7 @@
    "expira": null,
    "descriere": "Cerintele postului de biolog/biochimist laborator analize medicale : \n Cerinte generale: \n Studii superioare de specialitate absolvite cu diploma de master la o institutie de invatamant recunoscuta de OBBCSSR- biologie, chimie sau biochimie \n Autorizatie de Libera Practica \n Certificat de membru OBBCSSR, \n Experienta intr-un post similar de minim 1 an in cadrul unui laborator de analize medicale, \n Cunostinte de laborator: imunologie,hematologie,biochimie, cunostinte referitoare la functionarea unui laborator de analize medicale, \n Persoana organizata, responsabila, care sa respecte procedurile, instructiunile si metodele de lucru, cunostinte operare PC. Capacitate de lucru in echipa. \n Cerinte specifice in cadrul laboratorului de analize medicale: \n 1.Preluarea,verificarea, pregatirea si prelucrarea probelor biologice respectand procedurile specifice, instructiunile de lucru si termenele stabilite pentru efectuarea investigatiilor. \n 2. Efectuarea investigatiilor de hematologie,coagulare, biochimie serica si urinara si imunologice calitative si cantitative . \n 3 .Abilitati de utilizare a echipamentelor de laborator. Realizarea mentenantelor zilnice, periodice a echipamentelor conform manualelor tehnice si de operare. \n 4. Ruleaza controalele interne si efectueaza calibrarile \n 5. Validarea la nivel tehnic a rezultatelor analizelor efectuate. \n 6. Efectueaza controlul extern de calitate si respectarea cerintelor standardului de acreditare,cerintele RENAR si ghidurile cerute de acreditare. \n Activitatrile sunt desfasurate cu respectarea riguroasa a cerintelor de calitate conform SR EN ISO 15189:2023 \n 7. Urmareste consumurile de materiale, reactivi, calibratori, controale utilizate in procesul de analiza",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -838,7 +842,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -869,7 +873,7 @@
    "expira": null,
    "descriere": "Candidatul Ideal: \n - inginer chimist cu experienta industriala in chimie anorganica; \n - cunostinte ale software-ului din pachetul Microsoft Office reprezinta avantaj; \n Descrierea jobului \n Asigura coordonarea aspectelor legate de chimia sectiei de ZINCARE TERMICA; \n Elaboreaza documentele aferente specialitatii sale si urmareste aplicarea lor in procesele de productie mentionate; \n Responsabilitati principale: \n Stabileste necesarul de materii prime, in vederea achizitionarii acestora in avans, pentru fluxurile tehnologice mentionate; \n In urma rezultatelor primite ale analizelor periodice, stabileste corectiile necesare; \n Avizeaza operatiile de inventariere periodica a catorva materii prime; \n Stabileste deseurile ce urmeaza a fi eliminate, rezultate in urma proceselor tehnologice; \n Stabileste/avizeaza conditiile necesare respectarii calitatii proceselor de acoperire conform normelor in vigoare; \n Se ofera: \n Contract de munca pe perioada nedeterminata. \n Asiguram cazare si acoperire cost transport pentru persoanele din afara Bucurestiului. \n Program de lucru: 07:30 - 16:00 de luni pana vineri cu o pauza de masa intre 11:30-12:00. \n Bonusuri bazate pe performanta. \n Bonuri de masa. \n Prime de sarbatori. \n Traininguri de specializare. \n Compania se afla imediat langa statia de metrou Preciziei si langa statia de tramvai . VEST. \n Compania: Fabrica de confectii de structuri metalice si zincare termica in Bucuresti.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -896,7 +900,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 78,
@@ -927,7 +931,7 @@
    "expira": null,
    "descriere": "Căutăm un Inginer Chimist Cercetare-Dezvoltare, dornic să se alăture unei echipe regionale. \n Candidatul ideal: \n Absolvent al unei facultăti cu profil chimie (Politehnică/Universitate); \n Experiența în industria de lacuri si vopsele constituie avantaj; \n Experiența într-un departament de Cercetare-Dezvoltare reprezenta un avantaj \n Capacitate de organizare, abilitatea de a lucra în echipă; \n Persoană responsabilă, atentî la detalii, meticuloasă; \n Cunoștințe operare PC - Microsoft Office; \n Cunoștințe de limba engleză - nivel mediu; \n Descrierea jobului \n Dezvoltarea, testarea și implementarea de produse noi. \n Coordonarea de proiecte de la idee până la testarea industrială. \n Asigurarea respectarii cerințelor de calitate, siguranță și specificații tehnice. \n Constata neconformitatile, le analizeaza si intocmeste rapoarte de neconformitate, participa la stabilirea de actiuni corective si urmareste solutionarea lor. \n Ce oferim: \n Mediu de lucru dinamic, cu focus pe inovație. \n Proiecte regionale și colaborare cross-funcțională. \n Oportunități de dezvoltare profesională. \n Pachet salarial aliniat cu piața. \n Producator si distribuitor de vopsea lavabila, tencuiala decorativa si cerneala tipografica.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -943,7 +947,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -974,7 +978,7 @@
    "expira": null,
    "descriere": "Candidatul ideal \n *studii medii absolvite cu diploma de bacalaureat sau calificare de laborant chimist sau operator chimist/studii superioare; \n *minima experienta de lucru intr-un laborator de efectuare analize chimice/ fizice /biologice; \n *capacitate de învățare rapidă, atenție distribuitivă, gândire logică, spirit de inițiativă, asumarea răspunderii, perseverență și corectitudine în executarea sarcinilor, spirit de echipă. \n Descrierea jobului \n *efectuarea diverselor operatii de laborator (cantariri, dizolvari, filtrari, precipitari, preparare solutii, distilare apa etc.); \n *manipularea reactivilor chimici necesari in laborator; \n *urmarirea si executarea anumitor procese chimice; \n Oferim: \n *Pachet salarial atractiv si alte avantaje in concordanta cu experienta si realizarile dvs.; \n *Oportunitati de dezvoltare personala si profesionala prin participarea la cursuri de specialitate; \n *Sansa de a se dezvolta si a creste profesional odata cu compania; \n *Siguranța si stabilitatea unei companii internaționale de succes implicata si pe latura sociala.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -990,7 +994,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1022,7 +1026,7 @@
    "expira": null,
    "descriere": "Companie privata in domeniul comertului cu ridicata al produselor chimice, inclusiv operatiuni de import-export, fabricare, depozitare, manipulare si transport produse chimice, angajeaza inginer chimist in cadrul departamentului tehnic la sediul din Bucuresti si/sau la punctul de lucru din Butimanu, Jud. Dambovita. \n Descrierea postului : \n - Intocmeste/revizuieste documentele tehnice si de calitate ale materiilor prime si articolelor chimice comercializate; \n - Colecteaza informatii despre materiile prime si articolele chimice ce urmeaza a fi aprovizionate pentru a stabili cerintele de conformare privind cadrul legal, domeniile de utilizare si oportunitatea aprovizionarii acestora; \n - Colecteaza informatii despre modul de utilizare a materiilor prime si articolelor chimice pe baza informatiilor de la furnizori si a celor din literatura de specialitate, pentru a acorda asistenta tehnica clientilor/utilizatorilor; \n - Asigura suport tehnic colegilor din departamentul Vanzari; \n - Urmareste clasificarea substantelor si amestecurilor chimice conform legislatiei in vigoare, in vederea intocmirii fiselor cu date de securitate; \n - Intocmeste raportarile prevazute de legislatia aplicabila in domeniul ambalajelor. \n Cerintele postului : \n - Studii superioare: chimie, inginerie chimica; \n - Cunostinte de operare PC, MS Office - nivel mediu; \n - Cunostinte de limba engleza, scris si vorbit - nivel avansat; \n - Constituie avantaj experienta in industria chimica: lacuri si vopsele, articole din cauciuc si mase plastice, cosmetice si detergenti etc.; \n - Constituie avantaj cunoasterea standardelor ISO 9001, ISO 14001, ISO 45001; \n - Responsabilitate si corectitudine; \n - Orientare catre rezultat, atitudine proactiva; \n - Program de lucru: luni-vineri, 08-16.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -1044,7 +1048,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 70,
@@ -1075,7 +1079,7 @@
    "expira": null,
    "descriere": "Responsabilitati: \n Participa la estimarea operatiilor de AS in procesul de analiza a cererilor de oferta/comenzilor client \n Colaboreaza la realizarea dosarului FAI proces special \n Colaboreaza la elaborarea ciclului tehnologic corespunzator procesului special \n Defineste in SAP materialele tehnologice necesare proceselor de acoperire de suprafata \n Elaboreaza fise tehnice de proces \n Clarifica observatiile clientului legate de proiectul tehnologic pe parcursul procesului de aprobare de catre acesta a raportului FAI \n Realizeaza operatiile de AS din planul de operatii de serie prin inglobarea tuturor modificarilor realizate in faza FAI \n Cerinte: \n Studii superioare tehnice - Facultatea de Chimie / Chimie Aplicata si Stiinta Materialelor; \n Experienta in domeniul : \n - Procese Chimice Speciale de Acoperiri de Suprafata si Galvanizare , \n -Procese de Vopsire ; \n Microsoft Office - nivel mediu; \n Cunostinte SAP - reprezinta avantaj; \n Limba engleza- nivel avansat; \n Persoana organizata, responsabila si atenta la detalii; \n Bune abilitati de comunicare si inter-relationare; \n Beneficii: \n Tichete de masa; \n Decontare transport; \n Asigurare medicala privata; \n Asigurare de viata; \n Prima de Paste si de Craciun conform CCM in vigoare; \n Vouchere de vacanta conform CCM in vigoare; \n Alte beneficii conform CCM in vigoare; \n Tichete cadou; \n Bonus de performanta; \n Abonament Bookster.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -1106,7 +1110,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1137,7 +1141,7 @@
    "expira": null,
    "descriere": "DOZIMED este o companie privata, desemnată de catre Comisia Nationala pentru Controlul Activitatilor Nucleare pentru serviciile de monitorizare dozimetrica individuala a persoanelor expuse profesional la radiatii ionizante. \n Parte din grupul Sterileco - DOZIMED este membru cu drept de vot în cadrul European Radiation Dosimetry Group – EURADOS , alături de alte laboratoare de prestigiu din Europa. \n Calitate – Excelenta – Integritate – Profesionalism & Promtitudine – Grija – Loialitate - sunt valorile in care credem. Totodata, ele reprezinta angajamentul pe care il luam zi de zi catre clientii si angajatii nostri. \n Profil / Ce ne dorim de la tine: \n Absolvent Facultatea de Fizica, Universitatea Politehnica (mecanica, inginerie) ,studii tehnice; \n Experienta in domeniu - cu specializare in domeniul nuclear sau medical; \n Cunostinte in domeniul Managemenului Calitatii; \n Gandire structurata si orientare catre solutii, abilitati de planificare; \n Capacitate de analiza si sinteza, flexibilitate, atentie la detalii; \n Spirit practic, initiativa, rigurozitate, seriozitate, abilitati de comunicare si relationare; \n Integritate; \n Spirit de echipa; \n Capacitatea de a lucra cu echipamente si tehnologii diverse, apartinand mai multor sisteme dozimetrice; \n Deschidere catre invatare continua si adaptare la proceduri si metode noi de lucru; \n Abilități bune de documentare și respectare a procedurilor tehnice și operaționale; \n Responsabilitate și conștientizarea importanței siguranței radiologice; \n Capacitatea de a gestiona activități repetitive cu acuratețe ridicată; \n Abilități de organizare și gestionare eficientă a timpului; \n Atenție sporită la respectarea cerințelor de confidențialitate și etică profesională. \n Misiune / Ce vei face la noi: \n Ø Operarea sistemelor dozimetrice utilizate în laborator (termoluminescente și/sau alte tehnologii), inclusiv citirea dozimetrelor, interpretarea semnalelor măsurate și evaluarea dozelor raportate; \n Ø Participarea la planificarea și desfășurarea încercărilor realizate cu ajutorul dozimetrelor, precum și monitorizarea respectării termenelor stabilite prin obiectivele laboratorului; \n Ø Verificarea, validarea și emiterea buletinelor dozimetrice ce conțin rezultatele furnizate de sistemele dozimetrice utilizate, inclusiv aplicarea mărcii de acreditare pentru rezultatele emise în regim acreditat; \n Ø Respectarea și susținerea politicii societății privind calitatea; \n Ø Elaborarea, actualizarea și aplicarea procedurilor tehnice de lucru aferente sistemelor dozimetrice utilizate în laborator; \n Ø Asigurarea respectării obligațiilor companiei față de clienți și organismele de reglementare pentru contractele de monitorizare dozimetrică individuală; \n Ø Monitorizarea derulării contractelor de monitorizare dozimetrică individuală, indiferent de tipul sistemului dozimetric utilizat; \n Ø Colaborarea cu colegii în vederea îmbunătățirii continue a activităților specifice sistemului de management al calității; \n Ø Asigurarea respectării prevederilor procedurilor tehnice de lucru pentru determinarea dozelor primite de dozimetrele utilizate în laborator; \n Ø Monitorizarea respectării termenelor privind expedierea dozimetrelor și transmiterea rezultatelor monitorizării dozimetrice către clienți; \n Ø Asigurarea funcționării în bune condiții a echipamentelor dozimetricе și participarea la activitățile de verificare metrologică și mentenanță conform programului anual; \n Ø Informarea imediată a persoanelor responsabile cu privire la orice defecțiune, neconformitate sau eroare apărută în funcționarea echipamentelor sau a sistemelor utilizate în laborator.",
    "prima_data": "2026-09-28T08:08:56+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "fizician",
@@ -1153,7 +1157,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1202,7 +1206,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (51 zile), poate e deja ocupat"
+     "t": "Anunț vechi (52 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1249,7 +1253,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (58 zile), poate e deja ocupat"
+     "t": "Anunț vechi (59 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1294,7 +1298,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (52 zile), poate e deja ocupat"
+     "t": "Anunț vechi (53 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1341,7 +1345,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (52 zile), poate e deja ocupat"
+     "t": "Anunț vechi (53 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1444,7 +1448,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (1884 zile), poate e deja ocupat"
+     "t": "Anunț vechi (1885 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -1580,7 +1584,7 @@
    "expira": null,
    "descriere": "Chimist \n Compania noastră caută un Chimist pasionat și talentat pentru a se alătura echipei noastre din domeniul cercetării și dezvoltării. Dacă ești o persoană creativă, cu o abordare analitică și o pasiune pentru știință, acest post ar putea fi potrivit pentru tine. \n Responsabilități: \n Participarea activă la proiectele de cercetare și dezvoltare a produselor chimice \n Realizarea de teste și analize chimice pentru a asigura calitatea produselor \n Dezvoltarea și optimizarea proceselor chimice \n Colaborarea strânsă cu echipa pentru atingerea obiectivelor stabilite \n Cerințe: \n Licență în Chimie sau domeniu similar \n Experiență anterioară într-un mediu de laborator chimic \n Abilități excelente de comunicare și rezolvare a problemelor \n Capacitatea de a lucra eficient atât individual, cât și în echipă \n Beneficii: \n Oportunitatea de a lucra într-un mediu stimulant, alături de profesioniști din domeniu \n Posibilitatea de a contribui la inovație și dezvoltare \n Program flexibil și pachet salarial atractiv \n Oportunități de dezvoltare profesională și avansare în cadrul companiei \n Dacă ești o persoană entuziastă, dornică să-și pună în valoare cunoștințele și abilitățile într-un mediu dinamic, te încurajăm să aplici pentru postul de Chimist în cadrul companiei noastre.",
    "prima_data": "2026-10-08T11:05:48+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2074,7 +2078,7 @@
    "termen_dosar": "2026-11-09",
    "descriere": "Permanent · Funcție contractuală · Funcții de execuție\nContact: runos@spitalgomoiu.ro, 0314136700\nSpitalul Clinic de Copii “Dr. Victor Gomoiu”, în temeiul:\nLegii nr. 53/2003-Codul Muncii, republicată, cu modificările și completările ulterioare;\nM.S. nr. 166/2023 pentru aprobarea metodologiilor privind organizarea şi desfăşurarea concursurilor de ocupare a posturilor vacante şi temporar vacante de medic, medic stomatolog, farmacist, biolog, biochimist şi chimist din unităţile sanitare publice sau din direcţiile de sănătate publică, precum şi a funcţiilor de şef de secţie, şef de laborator şi şef de compartiment din unităţile sanitare fără paturi sau din direcţiile de sănătate publică, respectiv a funcţiei de farmacist-şef în unităţile sanitare publice cu paturi;\nOrdinului nr. 112 din 16 ianuarie 2024 privind modificarea A nexei nr. 1 la Ordinul ministrului sănătății nr. 166/2023 ;\nOrdinului nr. 1470 din 20 octombrie 2011 pentru aprobarea criteriilor privind angajarea şi promovarea în funcţii, grade şi trepte profesionale a personalului contractual din unităţile sanitare publice din sectorul sanitar;\nLegii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare;\n organizează concursul pentru ocuparea unui post de execuție vacant (durată nedeterminată), cu normă întreagă de 7 ore/zi, după cum urmează:\n – 1 post de medic rezident anul IV (an terminal), specialitatea: Oftalmologie, cod COR: 221102; în cadrul Compartimentului Oftalmologie ;\n CONDIȚII GENERALE DE PARTICIPARE: \n Poate ocupa un post vacant sau temporar vacant persoana care îndeplineşte condiţiile prevăzute de Legea nr. 53/2003 – Codul muncii, republicată, cu modificările şi completările ulterioare, şi cerinţele specifice prevăzute la art. 542 alin. (1) şi (2) din Ordonanţa de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările şi completările ulterioare:\n a) are cetăţenia română sau cetăţenia unui alt stat membru al Uniunii Europene, a unui stat parte la Acordul privind Spaţiul Economic European (SEE) sau cetăţenia Confederaţiei Elveţiene;\n b) cunoaşte limba română, scris şi vorbit;\n c) are capacitate de muncă în conformitate cu prevederile Legii nr. 53/2003 – Codul muncii, republicată, cu modificările şi completările ulterioare;\n d) are o stare de sănătate corespunzătoare postului pentru care candidează, atestată pe baza adeverinţei medicale eliberate de medicul de familie sau de unităţile sanitare abilitate;\n e) îndeplineşte condiţiile de studii, de vechime în specialitate şi, după caz, alte condiţii specifice potrivit cerinţelor postului scos la concurs, inclusiv condiţiile de exercitare a profesiei;\n f) nu a fost condamnată definitiv pentru săvârşirea unei infracţiuni contra securităţii naţionale, contra autorităţii, contra umanităţii, infracţiuni de corupţie sau de serviciu, infracţiuni de fals ori contra înfăptuirii justiţiei, infracţiuni săvârşite cu intenţie care ar face o persoană candidată la post incompatibilă cu exercitarea funcţiei contractuale pentru care candidează, cu excepţia situaţiei în care a intervenit reabilitarea;\n g) nu execută o pedeapsă complementară prin care i-a fost interzisă exercitarea dreptului de a ocupa funcţia, de a exercita profesia sau meseria ori de a desfăşura activitatea de care s-a folosit pentru săvârşirea infracţiunii sau faţă de aceasta nu s-a luat măsura de siguranţă a interzicerii ocupării unei funcţii sau a exercitării unei profesii;\n h) nu a comis infracţiunile prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, cu modificările ulterioare, pentru domeniile prevăzute la art. 35 alin. (1) lit. h) din Hotărârea Guvernului nr. 1336/2022 pentru aprobarea Regulamentului-cadru privind organizarea şi dezvoltarea carierei personalului contractual din sectorul bugetar plătit din fonduri publice.\n CONDIȚII SPECIFICE POSTULUI : \n Studii specialitate : Diplomă de licență și Examen de rezidențiat în specialitatea Oftalmologie;\n Certificat de membru la Colegiul Medicilor , însoțit de avizul de exercitare a profesiei , în termen; poliță asigurare de răspundere civilă profesională , în termen.\n Vechime în muncă/specialitate necesară: conform Fișei postului;\n Cunoștințe de operare/programare pe calculator: conform Fișei postului;\n Limbi străine: conform Fișei postului;\n Abilități, calități și aptitudini necesare: conform Fișei postului;\n Cerințe specifice: conform Fișei postului.\n CONDIȚII SPECIFICE POSTULUI PENTRU MEDICUL REZIDENT ANUL IV (AN TERMINAL) OFTALMOLOGIE : \n Diplomă de licență; \n Diplomă de bacalaureat; \n Promovarea examenului de verificare a cunoștințelor prevăzute de curriculum de pregătire a anului de formare III; \n Adeverință care să ateste vechimea ca medic rezident de minim 3 ani în specialitatea postului; \n Certificatul de membru al organizației profesionale cu viza pe anul în curs. \n ÎNSCRIEREA LA CONCURS: \n (1) Pentru înscrierea la concurs, candidații vor prezenta un dosar de concurs care va conține următoarele documente:\n a) formular/cerere de înscriere la concurs adresat/ă Managerului Spitalul Clinic de Copii “Dr. Victor Gomoiu” (document anexat prezentului anunț);\n b) copia de pe diploma de licenţă şi de pe certificatul de medic specialist sau primar, copia de pe carnetul de medic rezident , pentru medici, medici stomatologi, farmacişti şi, respectiv, adeverinţă de confirmare în gradul profesional pentru biologi, biochimişti sau chimişti;\n c) copie a certificatului de membru al organizaţiei profesionale, avizul de exercitare a profesiei, în termen, poliță asigurare de răspundere civilă profesională, în termen;\n d) dovada/înscrisul din care să rezulte că nu i-a fost aplicată una dintre sancţiunile prevăzute la art. 455 alin. (1) lit. e) sau f), la art. 541 alin. (1) lit. d) sau e), respectiv la art. 628 alin. (1) lit. d) sau e) din Legea nr. 95/2006 privind reforma în domeniul sănătăţii, republicată, cu modificările şi completările ulterioare, ori cele de la art. 39 alin. (1) lit. c) sau d) din Legea nr. 460/2003 privind exercitarea profesiunilor de biochimist, biolog şi chimist, înfiinţarea, organizarea şi funcţionarea Ordinului Biochimiştilor, Biologilor şi Chimiştilor în sistemul sanitar din România;\n e) acte doveditoare pentru calcularea punctajului prevăzut în Anexa nr. 3 la O.M.S. nr. 166/2023;\n f) certificat de cazier judiciar sau, după caz, extrasul de pe cazierul judiciar;\n g) certificatul de integritate comportamentală din care să reiasă că nu s-au comis infracţiuni prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, cu modificările ulterioare, pentru candidaţii\n înscrişi pentru posturile din cadrul sistemului de învăţământ, sănătate sau protecţie socială, precum şi orice entitate publică sau privată a cărei activitate presupune contactul direct cu copii, persoane în vârstă, persoane cu dizabilităţi sau alte categorii de persoane vulnerabile ori care presupune examinarea fizică sau evaluarea psihologică a unei persoane;\n h) adeverinţă medicală care să ateste starea de sănătate corespunzătoare, eliberată de către medicul de familie al candidatului sau de către unităţile sanitare abilitate cu cel mult 6 luni anterior derulării concursului;\n i) copia actului de identitate sau orice alt document care atestă identitatea, potrivit legii, aflate în termen de valabilitate;\n j) copia certificatului de naștere și copia certificatului de căsătorie sau a altui document prin care s-a realizat schimbarea de nume, după caz;\n k) curriculum vitae, model comun european.\n (2) Documentele prevăzute",
    "prima_data": "2026-10-27T09:31:59+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": false,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2119,7 +2123,7 @@
    "expira": null,
    "descriere": "Nivel de vechime: Asociat\nTip de angajare: Full-time\nSectoare de activitate: Servicii de resurse umane\nShort Company Description\n Neolife Medical Center este una dintre cele mai bine echipate clinici medicale cu profil oncologic din Romania, cu tehnici si echipamente medicale de diagnostic si tratament aduse in premiera in tara.\nNeolife reprezinta o retea cu doua centre medicale in Bucuresti si cate unul in Iasi, Brasov, Braila si Ramnicu Valcea, cu echipe multidisciplinare care includ specialisti si experti din toate domeniile medicale, tehnici inovative, de pionierat, pentru diagnosticul si tratamentele oncologice. Acestea constituie principalele puncte forte pe care Neolife le pune la dispozitia pacientilor.\nA\n10 ani in Romania, peste 200.000 de pacienti tratati, alte sute de mii de investigatii.\nO echipa performanta care creste in permanenta. Poti fi tu cel care ni se alatura!\n Requirements\n Absolvent al Facultatii de Fizica (specializare Fizica medicala);\n Experienta in domeniul medicina nucleara este un avantaj;\n Cursuri de specializare in domeniu;\n Foarte bune abilitati de organizare, planificare si control;\n Capacitate de asumare a deciziilor si de actiune in termen limita;\n Responsibilities\nElaboreaza planul computerizat pentru fiecare pacient ce urmeaza sa inceapa tratamentul.\nEvalueaza distributia de doza totala prescrisa pacientului pe volumul tinta si doza la organele la risc.\nEfectueaza verificarile zilnice, lunare si anuale pentru asigurarea calitatii echipamentelor de radioterapie, conform procedurilor interne.\nEfectueaza verificarile dozimetrice\nColaboreaza cu personalul tehnic de intretinere si service pentru mentinerea echipamentelor in conditii normale de functionare.\n Efectueaza elutiile si prepara dozele radioactive pentru fiecare pacient.\n Completeaza fisa medicala a fiecarui pacient, conform protocoalelor interne.\n Masoara periodic, cu aparatura dozimetrica din dotare, echipamentele de investigatii si evalueaza valorile obtinute in urma masuratorilor, repectand standardele in vigoare.\n Colaboreaza cu personalul tehnic de intretinere si service pentru mentinerea echipamentelor in conditii normale de functionare.\n Efectueaza verificarile zilnice, lunare si anuale pentru asigurarea calitatii echipamentelor de medicina nucleara, conform procedurilor interne.",
    "prima_data": "2026-10-28T10:16:08+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "fizician",
@@ -2318,7 +2322,7 @@
    "expira": null,
    "descriere": "Nivel de vechime: Nu se aplică\nTip de angajare: Full-time\nSectoare de activitate: Consultanță de operațiuni și Petrol și gaze\nABOUT TRINDENT \n Trindent Consulting is a global management consulting firm that specializes in technical augmentation in the energy sector, specifically downstream oil & gas and large energy users. We are a profit improvement firm, first and foremost.\n We’ve helped over 100 clients achieve significant financial benefits that yield between 500–1500% return-on-investment within the 1st year – and we’ve done that without capital investments or software changes of any kind.\n Established in 2008, Trindent Consulting has quickly garnered a reputation as a firm that Makes It Happen™. We are ranked as one of Canada’s Fastest-Growing Companies by Canadian Business and GROWTH 500 for 7 years in a row and named one of the Fastest-Growing Consulting Firms by Consulting Magazine in 2015 through 2020.\n Trindent Consulting specializes in process engineering & optimization. Without capital investment we create actionable ways to sustainably increase refinery margins by 2–3%.\n Refineries are extraordinarily complex businesses. Trindent specializes in several ultra-high value niches within refineries where tens of millions of dollars in performance improvement may be captured in the short-term.\n Underpinned by data analytics, industry know-how, and technical experience; Trindent has implemented improvement engagements in over 40 refineries globally.\n BUSINESS EXPANSION \n Our practice is expanding. As part of this growth, we are building a strong pipeline of experienced refinery professionals to support client engagements across North America. While opportunities will depend on client demand, we are actively engaging with qualified engineers who can contribute within one of Trindent’s four core downstream services. We are gearing up for 20–25% growth and we hope you will join us on this journey!\n This is a highly client-facing role based around project delivery. Consultants must be available to travel approximately 80% of the time, typically Monday to Friday, to client sites across Europe and occasionally Canada and the US.\n THE OPPORTUNITY \n We have opportunities for a Chemical Engineer &/or Chemist with experience in a “hydrocarbon lab”. The ideal candidate will be experienced in analysing crude oil, refined products, and intermediate streams to ensure quality, safety, efficiency, and regulatory compliance across refinery operations.\n KEY RESPONSIBILITIES \n Our consultants assist Refinery clients optimize refining processes, systems and behaviours to reduce operational inefficiencies.\n You will be involved in reviewing samples to determine:\nAccurate assessment of product quality giveaway\nCompliance with ATSM / ISO standards on both sampling and analysis\n Laboratory results help our team confirm that product streams meet required specifications before shipment to client customers. They ensure that refined products, such as gasoline, diesel, jet fuel, LPG both comply with local specifications and minimise quality / value giveaway.\n KEY SKILLS & EXPERIENCE \n Proven experience in an oil refinery laboratory.\n Interest in a consulting role, not a laboratory role, that will see you work on multiple client projects.\n QUALIFICATIONS \n Degree in Chemistry, Chemical Engineering or Petroleum Engineering.\n WORK LOCATION & FLEXIBILITY \n Client-facing consulting role supporting engagements across Europe and occasionally North America.\n Approximately 80% travel is required, typically Monday to Friday, according to project and client needs.\n Candidates must be able to travel regularly and work onsite at refinery and client locations throughout Europe and occasionally Canada and the US.\n WHAT YOU WILL GAIN \n Work on complex, high-value refinery improvement projects within one or more of Trindent’s four core services.\n Join a fast-growing, dynamic consulting environment with structured opportunities to build subject-matter expertise.\n Ga",
    "prima_data": "2026-11-05T11:47:17+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2368,11 +2372,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-11-24T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-11-25T00:00:00Z",
    "descriere": "Prolvira Solutions SRL angajează Chimist pentru echipa din Brașov.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nOrientare către client, Microsoft Office, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat, tichete de masă.\n Cod referință: QVZ7-1NB0KA\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Prolvira Solutions SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2417,11 +2421,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-11-25T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-11-26T00:00:00Z",
    "descriere": "Giantan Resources SRL angajează Chimist pentru echipa din Brașov.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLucru în echipă, Atenție la detalii, Permis categoria B;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat, bonusuri de performanță.\n Cod referință: QVZ7-1NARVZ\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Giantan Resources SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2466,11 +2470,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-12T05:00:00+02:00",
-   "expira": "2026-12-07T00:00:00Z",
+   "publicat": "2026-11-13T05:00:00+02:00",
+   "expira": "2026-12-08T00:00:00Z",
    "descriere": "Briaskia Solutions SRL angajează Chimist pentru echipa din Brașov.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nSeriozitate, Microsoft Office, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, training-uri plătite, bonusuri de performanță.\n Cod referință: QVZ7-1NB3W4\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Briaskia Solutions SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2509,11 +2513,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-09T05:00:00+02:00",
-   "expira": "2026-11-22T00:00:00Z",
+   "publicat": "2026-11-10T05:00:00+02:00",
+   "expira": "2026-11-23T00:00:00Z",
    "descriere": "Briaskora Prod SRL angajează Chimist pentru echipa din Brașov.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLucru în echipă, Microsoft Office, Orientare către client;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, bonusuri de performanță, tichete de masă.\n Cod referință: QVZ7-1NAURT\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Briaskora Prod SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2558,11 +2562,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-09T05:00:00+02:00",
-   "expira": "2026-11-25T00:00:00Z",
+   "publicat": "2026-11-10T05:00:00+02:00",
+   "expira": "2026-11-26T00:00:00Z",
    "descriere": "Trioxira Partners SRL angajează Chimist pentru echipa din Brașov.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nAdaptabilitate, Microsoft Office, Organizare;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, zile libere suplimentare, asigurare medicală privată.\n Cod referință: QVZ7-1NAT0J\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Trioxira Partners SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2607,11 +2611,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-12-05T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-12-06T00:00:00Z",
    "descriere": "Tulvova Services SRL angajează Chimist pentru echipa din Popești Leordeni.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nPermis categoria B, Lucru în echipă, Atenție la detalii;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, asigurare medicală privată, training-uri plătite.\n Cod referință: QVZ7-1NAX71\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Tulvova Services SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2656,11 +2660,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-11T05:00:00+02:00",
-   "expira": "2026-11-30T00:00:00Z",
+   "publicat": "2026-11-12T05:00:00+02:00",
+   "expira": "2026-12-01T00:00:00Z",
    "descriere": "Prulteta Systems SRL angajează Chimist pentru echipa din Măgurele (Ilfov).\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nSeriozitate, Microsoft Office;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat, tichete de masă.\n Cod referință: QVZ7-1NB253\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Prulteta Systems SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2705,11 +2709,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-09T05:00:00+02:00",
-   "expira": "2026-11-21T00:00:00Z",
+   "publicat": "2026-11-10T05:00:00+02:00",
+   "expira": "2026-11-22T00:00:00Z",
    "descriere": "Marnion Distribution SRL angajează Chimist pentru echipa din Buftea.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLucru în echipă, Seriozitate, Comunicare;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat.\n Cod referință: QVZ7-1NB0QY\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Marnion Distribution SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2748,11 +2752,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-06T05:00:00+02:00",
-   "expira": "2026-11-22T00:00:00Z",
+   "publicat": "2026-11-07T05:00:00+02:00",
+   "expira": "2026-11-23T00:00:00Z",
    "descriere": "Miorkira Solutions SRL angajează Chimist pentru echipa din Otopeni.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nMicrosoft Office, Limba engleză, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, asigurare medicală privată, training-uri plătite.\n Cod referință: QVZ7-1NAXP8\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Miorkira Solutions SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2797,11 +2801,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-11-18T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-11-19T00:00:00Z",
    "descriere": "Gaervena Solutions SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nMicrosoft Office, Adaptabilitate, Comunicare;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, asigurare medicală privată, zile libere suplimentare.\n Cod referință: QVZ7-1NAZDW\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Gaervena Solutions SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2846,11 +2850,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-11-22T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-11-23T00:00:00Z",
    "descriere": "Vaezeta Tech SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nOrientare către client, Organizare, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat, tichete de masă.\n Cod referință: QVZ7-1NAZ4Y\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Vaezeta Tech SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2895,11 +2899,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-13T05:00:00+02:00",
-   "expira": "2026-12-02T00:00:00Z",
+   "publicat": "2026-11-14T05:00:00+02:00",
+   "expira": "2026-12-03T00:00:00Z",
    "descriere": "Niorkan Tech SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nMicrosoft Office, Seriozitate, Comunicare;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, bonusuri de performanță, asigurare medicală privată.\n Cod referință: QVZ7-1NAT9E\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Niorkan Tech SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2944,11 +2948,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-12T05:00:00+02:00",
-   "expira": "2026-11-25T00:00:00Z",
+   "publicat": "2026-11-13T05:00:00+02:00",
+   "expira": "2026-11-26T00:00:00Z",
    "descriere": "Crintion Services SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLimba engleză, Atenție la detalii, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, tichete de masă, training-uri plătite.\n Cod referință: QVZ7-1NAUJS\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Crintion Services SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -2993,11 +2997,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-10T05:00:00+02:00",
-   "expira": "2026-11-25T00:00:00Z",
+   "publicat": "2026-11-11T05:00:00+02:00",
+   "expira": "2026-11-26T00:00:00Z",
    "descriere": "Rurnion Resources SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLimba engleză, Orientare către client, Adaptabilitate;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, training-uri plătite, asigurare medicală privată.\n Cod referință: QVZ7-1NB3T0\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Rurnion Resources SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3047,11 +3051,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-10T05:00:00+02:00",
-   "expira": "2026-11-21T00:00:00Z",
+   "publicat": "2026-11-11T05:00:00+02:00",
+   "expira": "2026-11-22T00:00:00Z",
    "descriere": "Fioskan Solutions SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nLimba engleză, Lucru în echipă, Orientare către client;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, asigurare medicală privată, training-uri plătite.\n Cod referință: QVZ7-1NB2YP\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Fioskan Solutions SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3096,11 +3100,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-09T05:00:00+02:00",
-   "expira": "2026-11-30T00:00:00Z",
+   "publicat": "2026-11-10T05:00:00+02:00",
+   "expira": "2026-12-01T00:00:00Z",
    "descriere": "Rundeta Resources SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nOrientare către client, Atenție la detalii, Permis categoria B;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, tichete de masă, training-uri plătite.\n Cod referință: QVZ7-1NAYKT\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Rundeta Resources SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3150,11 +3154,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-09T05:00:00+02:00",
-   "expira": "2026-11-19T00:00:00Z",
+   "publicat": "2026-11-10T05:00:00+02:00",
+   "expira": "2026-11-20T00:00:00Z",
    "descriere": "Miaxova Grup SRL angajează Chimist pentru echipa din București.\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nMicrosoft Office, Permis categoria B, Lucru în echipă;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, transport decontat, zile libere suplimentare.\n Cod referință: QVZ7-1NAXBV\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Miaxova Grup SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3193,11 +3197,11 @@
    "salariu_text": "",
    "sal_min": null,
    "sal_max": null,
-   "publicat": "2026-11-05T05:00:00+02:00",
-   "expira": "2026-12-03T00:00:00Z",
+   "publicat": "2026-11-06T05:00:00+02:00",
+   "expira": "2026-12-04T00:00:00Z",
    "descriere": "Zarvira Resources SRL angajează Chimist pentru echipa din Dancu (Iași).\n Responsabilități: \nDesfășurarea activităților specifice postului conform procedurilor interne;\nColaborarea cu ceilalți membri ai echipei;\nRaportarea periodică a activității către coordonator.\n Cerințe: \nExperiența în domeniu constituie un avantaj;\nOrientare către client, Lucru în echipă, Organizare;\nDisponibilitate pentru program full-time.\n Oferim: salariu motivant, contract pe perioadă nedeterminată, training-uri plătite, bonusuri de performanță.\n Cod referință: QVZ7-1NAY60\n ︂︀​︄︂​︄︂​︂︁︉\nChimist - Zarvira Resources SRL",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3293,7 +3297,7 @@
    "termen_dosar": "2026-11-23",
    "descriere": "Permanent · Funcție contractuală · Funcții de execuție\nContact: runos@spnbrasov.ro, 0268511481 int.1115\n2 (doua) posturi vacante Fizioterapeut debutant, studii superioare – Secṭia Clinică Recuperare Neuro-psiho-motorie\n Condiţiile specifice necesare în vederea participării la concurs pentru posturile vacante sunt: \n – diplomă de licență eliberată de o instituție de învățământ superior acreditată sau autorizată provizoriu din România în următoarele specializări:\nfizioterapie\nfiziokinetoterapie;\nkinetoterapie, cu durată de studii de 4 ani;\neducație fizică și sport, specializarea kinetoterapie și motricitate specială, cu durată de studii de 3 ani;\nkinetoterapie, cu durată de studii de 3 ani;\neducație fizică și sport, specializarea cultură fizică medicală;\nbalneofiziokinetoterapie și recuperare;\n sau\n – diplomă de licență sau un alt titlu de fizioterapeut/maso-kinetoterapeut/kinetoterapeut, eliberate de unul dintre statele prevăzute la art. 10 din Legea 229/2016 sau de un stat terț recunoscut ori echivalat în România de către Ministerul Educației Naționale și Cercetării Științifice, conform legii;\n sau\n – adeverință de absolvire a examenului de licență în fizioterapie, kinetoterapie și motricitate specială, balneofiziokinetoterapie și recuperare, eliberată la cererea absolventului, care este valabilă până la eliberarea diplomei de licență, dar nu mai mult de 12 luni de la data emiterii;\n – atestat de libera practica eliberat de Colegiul Fizioterapeutilor din România\n – fara vechime în specialitate.\n Perioada de depunere a dosarelor: 10.11.2026 – 23.11.2026 , în intervalul orar 9:00–14:00\n Selecția dosarelor: 24.11.2026, ora 10:00 \n Afișarea rezultatelor selecției dosarelor: 24.11.2026, ora 14:00, la sediul instituției și pe pagina de internet a instituției\n Depunerea contestațiilor la selecția dosarelor: 25.11.2026, până la ora 14:00\n Soluționarea contestațiilor la selecția dosarelor și afișarea rezultatelor: 26.11.2026, ora 14:00\n Proba scrisă: 03.12.2026 , ora 10:00, la sediul instituției\n Afișarea rezultatelor probei scrise: 03.12.2026, ora 14:00\n Depunerea contestațiilor la proba scrisă: 04.12.2026, până la ora 14:00\n Soluționarea contestațiilor la proba scrisă și afișarea rezultatelor: 07.12.2026, ora 14:00\n Proba practica : 08.12.2026 , ora 10:00\n Afișarea rezultatelor probei practice: 08.12.2026, ora 14:00\n Depunerea contestațiilor proba practica 09.12.2026 ora 14.00\n Soluționarea contestațiilor proba practica 10.12.2026 ora 14.00\n Proba interviu: 11.12.2026 , ora 10:00\n Afișarea rezultatelor probei interviu: 11.12.2026, ora 14:00\n Depunerea contestațiilor proba interviu 14.12.2026 ora 14.00\n Soluționarea contestațiilor proba practica 15.12.2026 ora 14.00\n Afișarea rezultatelor finale ale concursului: 16.12.2026, ora 14:00",
    "prima_data": "2026-11-09T12:27:07+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "fizician",
@@ -3340,7 +3344,7 @@
    "expira": null,
    "descriere": "Descriere job: \n Urmareste procesele tehnologice din cadrul activitatilor de galvanizare si vopsitorie \n Verifica respectarea instructiunilor tehnologice ,specificatiilor si parametrilor de proces \n Urmareste starea bailor tehnologice,evalueaza rezultatele analizelor chimice si stabileste corectiile necesare \n Calculeaza cantitatile de substante chimice necesare pentru prepararea,completarea si corectarea bailor \n Analizeaza neconformitatile aparute in proces, stabileste cauzele si masurile corective \n Colaboreaza cu inginerii tehnologi,laboratorul ,calitatea,metrologia,mentenanta \n Participa la auditurile interne si externe \n Propune imbunatatiri pentru stabilitatea proceselor \n Verifica si intocmeste documentatia aferenta procesului de productie \n Colaboreaza cu maistrii in vederea organizarii activitatilor de productie \n Cerinte: \n Studii superioare tehnice profil chimic \n Minim 1 an experienta \n Engleza – nivel avansat \n Microsoft Office \n Cunostinte SAP \n Abilitati excelente de comunicare si interrelationare; \n Spirit de echipa; \n Capacitate de prioritizare sarcini; \n Responsabilitate,implicare si devotament. \n Beneficii: \n Tichete de masa; \n Decontare transport; \n Asigurare medicala privata; \n Asigurare de viata; \n Prima de Paste si de Craciun conform CCM in vigoare; \n Vouchere de vacanta conform CCM in vigoare; \n Alte beneficii conform CCM in vigoare; \n Tichete cadou; \n Bonus de performanta; \n Abonament Bookster.",
    "prima_data": "2026-11-10T12:01:18+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3399,7 +3403,7 @@
    "termen_dosar": "2026-11-24",
    "descriere": "Permanent · Funcție contractuală · Funcții de execuție\nContact: 0332880220\nA.) Institutul De Chimie Macromoleculară „Petru Poni” Iaşi cu sediul în Iași, str. Aleea Gr. Ghica Vodă nr. 41A, județul Iasi, organizează concurs, pentru ocuparea următorului post contractual, conform H.G. nr. 1336/08.11.2022:\n 1. Nivelul postului: execuție \n 2. Denumirea postului: Inspector de specialitate, gradul II – specializare Chimist – chimie computațională , post vacant , pe perioadă nedeterminată. \n 3. Numărul de posturi: 1 post normă întreagă\n B.) Documente solicitate candidaţilor pentru întocmirea dosarului de concurs, conform art. 35 din H.G. 1336/2022 \n a) formular de înscriere la concurs, conform modelului prevăzut la anexa;\n b) copia actului de identitate sau orice alt document care atestă identitatea, potrivit legii, aflate în termen de valabilitate;\n c) copia certificatului de căsătorie sau a altui document prin care s-a realizat schimbarea de nume, după caz;\n d) copiile documentelor care atestă nivelul studiilor și ale altor acte care atestă efectuarea unor specializări, precum și copiile documentelor care atestă îndeplinirea condițiilor specifice ale postului solicitate de autoritatea sau instituția publică;\n e) copia carnetului de muncă, a adeverinței eliberate de angajator pentru perioada lucrată, care să ateste vechimea în muncă și în specialitatea studiilor solicitate pentru ocuparea postului;\n f) certificat de cazier judiciar sau, după caz, extrasul de pe cazierul judiciar;\n g) adeverință medicală care să ateste starea de sănătate corespunzătoare, eliberată de către medicul de familie al candidatului sau de către unitățile sanitare abilitate cu cel mult 6 luni anterior derulării concursului;\n h) certificatul de integritate comportamentală din care să reiasă că nu s-au comis infracțiuni prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul național automatizat cu privire la persoanele care au comis infracțiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum și pentru completarea Legii nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare, cu modificările ulterioare, pentru candidații înscriși pentru posturile din cadrul sistemului de învățământ, sănătate sau protecție socială, precum și orice entitate publică sau privată a cărei activitate presupune contactul direct cu copii, persoane în vârstă, persoane cu dizabilități sau alte categorii de persoane vulnerabile ori care presupune examinarea fizică sau evaluarea psihologică a unei persoane;\n i) curriculum vitae, model comun european.\n Dosarele de înscriere se depun la sediu instituție. Informaţii la tel: 0332880220 sau la sediul instituţiei.\n Termenul de depunere a dosarelor 24.11.2026, ora 15:00, la sediul instituţiei.\n C.) Condiţiile generale prevăzute de art. 15 din H.G. 1336/08.11.2022 \n Poate ocupa un post vacant sau temporar vacant persoana care îndeplinește condițiile prevăzute de Legea nr. 53/2003 — Codul muncii, republicată, cu modificările și completările ulterioare, și cerințele specifice prevăzute la art. 542 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare:\n a) are cetățenia română sau cetățenia unui alt stat membru al Uniunii Europene, a unui stat parte la Acordul privind Spațiul Economic European (SEE) sau cetățenia Confederației Elvețiene;\n b) cunoaște limba română, scris și vorbit;\n c) are capacitate de muncă în conformitate cu prevederile Legii nr. 53/2003 — Codul muncii, republicată, cu modificările și completările ulterioare;\n d) are o stare de sănătate corespunzătoare postului pentru care candidează, atestată pe baza adeverinței medicale eliberate de medicul de familie sau de unitățile sanitare abilitate;\n e) îndeplinește condițiile de studii, de vechime în specialitate și, după caz, alte condiții specifice potrivit cerințelor postului scos la concurs;\n f) nu a fost condamnată definitiv pentru săvârșirea unei infracțiuni contra securității naționale, contra autorității, contra umanității, infracțiuni de corupție sau de serviciu, infracțiuni de fals ori contra înfăptuirii justiției, infracțiuni săvârșite cu intenție care ar face o persoană candidată la post incompatibilă cu exercitarea funcției contractuale pentru care candidează, cu excepția situației în care a intervenit reabilitarea;\n g) nu execută o pedeapsă complementară prin care i-a fost interzisă exercitarea dreptului de a ocupa funcția, de a exercita profesia sau meseria ori de a desfășura activitatea de care s-a folosit pentru săvârșirea infracțiunii sau față de aceasta nu s-a luat măsura de siguranță a interzicerii ocupării unei funcții sau a exercitării unei profesii;\n h) nu a comis infracțiunile prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul național automatizat cu privire la persoanele care au comis infracțiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum și pentru completarea Legii nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare, cu modificările ulterioare, pentru domeniile prevăzute la art. 35 alin. (1) lit. h).\n Notă conform Ordinului comun MS/MEC nr. 55/3.335/2026: Pentru posturile din învățământul preuniversitar (funcții didactice, didactice auxiliare sau administrative, precum și funcții de conducere, de îndrumare și control), înscrierea la concurs este condiționată de prezentarea certificatului medical emis de medicul specialist de medicina muncii. Certificatul se emite în baza avizului medicului specialist psihiatru, a adeverinței medicale eliberate de medicul de familie și a consultației specifice de medicina muncii.\n Condiţii specifice de participare la concurs:\n 1. Nivelul studiilor:\n – studii universitare de licență absolvite cu diplomă de licență sau echivalentă în domeniile: chimie, biochimie, fizică sau știința materialelor\n 2. Vechime în muncă:\n – vechime în specialitatea studiilor: minimum 3 ani\n 3. Alte condiții:\n – cunoștințe de utilizare a cel puțin unui program de simulare moleculară (dinamică moleculară și/sau chimie cuantică), dovedite prin documente justificative (scrisoare de recomandare din partea unei personalități recunoscute în domeniu, publicații științifice în calitate de autor sau coautor, certificate, rapoarte etc.) sau evaluate în cadrul probelor de concurs;\n – cunoașterea limbii engleze – nivel mediu (citire și înțelegere a documentației tehnice de specialitate)\n D.) Bibliografie şi tematică: \n Bibliografia:\n 1. Humelnicu, I. – Elemente de chimie teoretică, Editura Tehnopress, Iași, 2003.\n 2. Abraham, M. J., van der Spoel, D., Lindahl, E., Hess, B. și GROMACS Development Team – GROMACS Reference Manual / User Guide, versiunea curentă, disponibil public la manual.gromacs.org.\n 3. Lemkul, J. A. – Introductory Tutorials for Simulating Protein Dynamics with GROMACS, J. Phys. Chem. B, 2024, 128(39), 9418–9435, doi: 10.1021/acs.jpcb.4c04901.\n 4. Regulamentul de organizare și funcționare al Institutului de Chimie Macromoleculară „Petru Poni” Iași.\n Tematica \n 1. Noțiuni fundamentale de chimie computațională: mecanica moleculară și metodele chimiei cuantice, seturi de bază, domenii de aplicabilitate și limitări.\n 2. Câmpuri de forță utilizate în simulările de dinamică moleculară: definiție, termeni de interacțiune legată și nelegată, exemple de câmpuri de forță (AMBER, CHARMM, OPLS, GROMOS etc.) și domeniile lor de aplicabilitate.\n 3. Etapele unei simulări de dinamică moleculară: construirea și solvatarea sistemului, condiții periodice la limită, minimizarea energiei, echilibrarea în ansamblurile NVT și NPT (termostate, barostate), simularea de producție; tratarea interacțiunilor electrostatice la distanță (metoda PME).\n 4. Analiza traiectoriilor și prelucrarea datelor: RMSD, RMSF, raza de girație, funcții de distribuție radială, legături de hidrogen, structura secundară; interpretarea și reprezentarea grafică a rezultatelor.\n 5. Programe de simulare moleculară: principii generale de utilizare, tipuri de fiș",
    "prima_data": "2026-11-10T12:01:18+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3442,7 +3446,7 @@
    "expira": null,
    "descriere": "Descrierea jobului : \n Inginer chimist cu experienta industriala in tehnologie chimica organica, compusi macromoleculari,chimie anorganica; \n Cunoștințe de utilizare a pachetului Microsoft Office; \n Cunoașterea limbii engleze constituie un avantaj; \n Capacitate de organizare, analiză și coordonare; \n Atenție la respectarea cerințelor de calitate și a procedurilor tehnologice. \n Responsabilități principale: \n Asigură coordonarea, din punct de vedere al specialității sale, a activității secției de VOPSITORIE LICHIDA a structurilor metalice; \n Elaborează documentele specifice domeniului său de activitate și urmărește aplicarea acestora în procesele de producție aferente. \n Stabilește necesarul de materii prime în vederea achiziționării acestora în avans, pentru fluxurile tehnologice menționate; \n Avizează operațiile de inventariere periodică și evaluează rezultatele; \n Stabilește deșeurile care urmează să fie eliminate, rezultate în urma proceselor tehnologice; \n Stabilește/avizează condițiile necesare pentru respectarea cerințelor de calitate ale proceselor de acoperire, conform normelor în vigoare; \n Supraveghează controlul final și avizează/elaborează documentele de calitate aferente operației de vopsire cu vopsea lichidă; \n În urma selectării sistemelor de vopsire (furnizor, sistem de protecție, consum/mp), transmite informațiile necesare pentru ofertare; \n Desfășoară activități de recepție a materialelor, control al procesului pe flux și control final; \n Oferă datele necesare întocmirii documentelor pentru eliminarea deșeurilor și menține legătura cu furnizorii aferenți acestor servicii; \n Alege sistemul de vopsire în funcție de cerințele clientului și de diferitele medii climatice corozive. \n Ce oferim : \n Contract de muncă pe perioadă nedeterminată; \n Program de lucru 07:30–16:00, de luni până vineri(pauza de masa: 11:30-12:00); \n Bonusuri lunare bazate pe performanță; \n Tichete de masă; \n Prime de sărbători; \n Traininguri de specializare;",
    "prima_data": "2026-11-11T11:38:38+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3496,7 +3500,7 @@
    "expira": null,
    "descriere": "Candidatul Ideal \n Ce ne dorim de la tine? \n Studii superioare finalizate în Fizică sau Fizică Medicală;\n Experiență profesională de minimum 3 ani într-un rol similar;\n Autorizație de Liberă Practică (ALP) valabilă și asigurare de malpraxis în vigoare;\n Curs de radioprotecție și Permis de Exercitare în Domeniul Nuclear RDT – Nivelul 2 sau 3;\n Cunoștințe avansate de fizică medicală, legislație specifică, radioprotecție și funcționare a echipamentelor;\n Atenție la detalii, capacitate de analiză, organizare și orientare către soluții;\n Abilități bune de comunicare, spirit de echipă și o abordare empatică față de pacienți.\n La Regina Maria, în spatele fiecărui tratament se află o echipă de specialiști care lucrează împreună pentru siguranța și sănătatea pacienților.\n Căutăm un Fizician Medical – Radioterapie care să contribuie, prin expertiză, precizie și atenție, la planificarea și desfășurarea tratamentelor în condiții de maximă siguranță.\n Ce vei face în acest rol? \n Vei participa, alături de medicii specialiști, la planificarea tratamentelor de radioterapie și la stabilirea dozelor de radiații;\n Vei efectua calcule și măsurători dozimetrice pentru evaluarea dozelor administrate pacienților;\n Vei realiza verificări periodice și teste de control al calității echipamentelor de radioterapie și a aparaturii dozimetrice;\n Vei monitoriza funcționarea echipamentelor și vei contribui la menținerea acestora în parametri optimi;\n Vei implementa și monitoriza procedurile de control al calității și de radioprotecție, în conformitate cu normele în vigoare;\n Vei colabora cu echipa medicală pentru desfășurarea tratamentelor în condiții de siguranță și vei contribui la instruirea personalului în aria ta de expertiză.\n Alaturi de noi vei avea parte de: \n Traininguri de specialitate si programe de dezvoltare;\n Posibilitati de promovare in cadrul echipei sau in alte departamente;\n Sesiuni de terapie & Mental Health gratuite;\n Programe de wellbeing;\n Abonament gratuit la Bookster;\n Reduceri preferentiale la partenerii Regina Maria;\n Abonament de servicii medicale si preturi preferentiale la abonamentele pentru familie;\n Program flexibil (asta punem doar la non-medical sau pozitiile care chiar au program flexibil);\n Tichete de masa;\n Zile de concediu suplimentare de ziua ta de nastere si pentru fiecare an petrecut in companie.\n Te rugam sa ai in vedere ca vor fi contactati doar candidatii eligibili/ care corespund criteriilor de eligibilitate. \n Povestile de succes au intotdeauna in spate oameni pasionati de a construi, iar alaturi de noi sunt cei mai buni. Intr-o lume dinamica si intr-o continua schimbare, daca printre valorile tale se numara invatarea continua, grija, integritatea si capacitatea de a munci pentru un scop comun, atunci aici vei gasi inspiratia sa construiesti alaturi de noi un sistem medical performant si uman, cu impact in viata oamenilor.",
    "prima_data": "2026-11-11T11:38:38+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "fizician",
@@ -3604,7 +3608,7 @@
    "termen_dosar": "2026-11-26",
    "descriere": "Permanent · Funcție contractuală · Funcții de execuție\nContact: dispecer@dap.rowater.ro, 0232218192\nAdministrația Bazinală de Apă Prut – Bârlad cu sediul în Iași, str. Th. Văscăuţeanu nr. 10, instituţie publică de interes naţional, cu personalitate juridică, organizează concurs pentru ocuparea funcției contractuale de execuție, pe perioadă nedeterminată de chimist, Compartiment Laborator Calitatea Apelor, S.G.A. Galați – 1 post; \n Activitatea profesională pentru postul unic de chimist, din cadrul Compartimentului Laborator Calitatea Apelor, S.G.A. Galați, se va desfășura la sediul S.G.A. Galați, Str. Drum de Centura, nr. 39 B, GALAȚI, cod postal 800248, jud. GALAȚI.\n Condiţiile specifice de participare la concursul pentru ocuparea postului unic vacant corespunzător funcției contractuale de execuție, pe perioadă nedeterminată, de chimist, Compartiment Laborator Calitatea Apelor, S.G.A. Galați – 1 post; precum şi calendarul desfăşurării concursului, sunt:\n Denumirea postului: chimist , din cadrul Compartimentului Laborator Calitatea Apelor, S.G.A. Galați – 1 post , având unul din următoarele grade: debutant, grad bază, grad III, grad II, grad I.\n Studii: \nStudii superioare, absolvite cu diplomă de licență\nStudii superioare în domeniul de licență Chimie\n Vechime: \nVechime în muncă: nu se solicită\nVechime în specialitatea studiilor: nu se solicită\n Cunoștințe :\ncunoștințe și competențe operare PC: Microsoft Office – Word, Excel.\n Calendarul de desfăşurare al concursului pentru ocuparea postului unic vacant corespunzător funcției contractuale de execuție, pe perioadă nedeterminată, de chimist, Compartiment Laborator Calitatea Apelor, S.G.A. Galați – 1 post .\n Concursul se va desfăşura la sediul Administrației Bazinale de Apă Prut – Bârlad din Iași, str. Th. Văscăuţeanu nr. 10, după următorul calendar:\n – 26.11.2026 , ora 15:30 – data limită de depunere a dosarelor de participare la concurs;\n – 02.12.2026 – selecţia dosarelor de concurs;\n – 03.12.2026, ora 15:30 – termen de afişare rezultate la selecţia dosarelor de concurs;\n – 04.12.2026, ora 15:30 – termen de depunere contestaţii cu privire la rezultatul selecţiei dosarelor de concurs;\n – 07.12.2026, ora 15:30 – termen de afişare a rezultatelor privind contestaţia la selecţia dosarelor de concurs;\n – 08.12.2026 , ora 10:00 – desfăşurare probă scrisă ;\n – 09.12.2026, ora 15:30 – termen de afişare rezultate proba scrisă;\n – 10.12.2026, ora 15:30 – termen de depunere contestaţii cu privire la rezultatul probei scrise;\n – 11.12.2026, ora 15:30 – termen de afişare a rezultatelor privind contestaţia la rezultatele probei scrise;\n – 14.12.2026 , ora 10:00 – susţinerea interviului ;\n – 15.12.2026, ora 15:30 – termen de afişare a rezultatelor privind interviul;\n – 16.12.2026, ora 15:30 – termen de depunere contestaţii cu privire la rezultatul interviului;\n – 17.12.2026, ora 15:30 – termen de afişare a rezultatelor privind contestaţia la rezultatele interviului;\n – 18.12.2026, ora 15:30 – termen de afişare a rezultatelor finale.\n Conform art. 35 al Hotărârii de Guvern nr. 1336 din 2022, pentru înscrierea la concurs candidaţii vor prezenta un dosar care va conţine următoarele documente: \na) formular de înscriere la concurs, conform modelului prevăzut la anexa nr. 2 din H.G. nr. 1336/2022;\nb) copia actului de identitate sau orice alt document care atestă identitatea, potrivit legii, aflate în termen de valabilitate;\nc) copia certificatului de căsătorie sau a altui document prin care s-a realizat schimbarea de nume, după caz;\nd) copiile documentelor care atestă nivelul studiilor şi ale altor acte care atestă efectuarea unor specializări, precum şi copiile documentelor care atestă îndeplinirea condiţiilor specifice ale postului solicitate de autoritatea sau instituţia publică;\ne) copia carnetului de muncă, a adeverinţei eliberate de angajator pentru perioada lucrată, care să ateste vechimea în muncă şi în specialitatea studiilor solicitate pentru ocuparea postului;\nf) cazierul judiciar sau, după caz, extrasul de pe cazierul judiciar;\ng) adeverinţă medicală care să ateste starea de sănătate corespunzătoare, eliberată de către medicul de familie al candidatului sau de către unităţile sanitare abilitate, cu cel mult 6 luni anterior derulării concursului;\nh) curriculum vitae, model european;\n Adeverinţa care atestă starea de sănătate conţine, în clar, numărul, data, numele emitentului şi calitatea acestuia, în formatul standard stabilit prin ordin al ministrului sănătăţii.\n Copiile de pe actele prevăzute la lit. b) – e), se prezintă însoţite de documentele originale, care se certifică cu menţiunea „conform cu originalul“ de către secretarul comisiei de concurs.\n Documentul prevăzut la lit. f), poate fi înlocuit cu o declaraţie pe propria răspundere privind antecedentele penale. În acest caz, candidatul declarat admis la selecția dosarelor are obligaţia de a completa dosarul de concurs cu originalul cazierului judiciar, anterior datei de susținere a probei scrise și/sau probei practice a concursului.\n Dosarele de concurs se depun la sediul Administratiei Bazinale de Apă Prut-Bârlad din Iași, str. Th. Văscăuțeanu nr.10 – Serviciul R.U.R.P.A. sau pot fi transmise de candidaţi prin Poşta Română, serviciul de curierat rapid, poşta electronică sau platformele informatice ale autorităţilor sau instituţiilor publice, în termen de 10 zile lucrătoare de la data afișării anunțului pentru ocuparea postului vacant.\n În situaţia în care candidaţii transmit dosarele de concurs prin Poşta Română, serviciul de curierat rapid, poşta electronică sau platformele informatice ale instituţiilor sau autorităţilor publice, candidaţii primesc codul unic de identificare la o adresă de e-mail comunicată de către aceştia şi au obligaţia de a se prezenta la secretarul comisiei de concurs cu documentele prevăzute la alin. b) – e) în original, pentru certificarea acestora, pe tot parcursul desfăşurării concursului, dar nu mai târziu de data şi ora organizării probei scrise/practice.\n Transmiterea documentelor prin poşta electronică sau prin platformele informatice ale autorităţilor sau instituţiilor publice se realizează în format .pdf cu volum maxim de 1 MB, documentele fiind acceptate doar în formă lizibilă, la adresa de email dispecer@dap.rowater .ro \n Nerespectarea prevederilor referitoare la transmiterea și înregistrarea dosarului de concurs, după caz, conduce la respingerea candidatului.\n Pentru ocuparea unui post contractual vacant candidaţii trebuie să îndeplinească următoarele condiţii generale conform art. 14 -15 din Hotărârea de Guvern nr.1336 din 2022: \na) are cetăţenia română sau cetăţenia unui alt stat membru al Uniunii Europene, a unui stat parte la Acordul privind Spaţiul Economic European (SEE) sau cetăţenia Confederaţiei Elveţiene;\nb) cunoaşte limba română, scris şi vorbit;\nc) are capacitate de muncă în conformitate cu prevederile Legii nr. 53/2003 – Codul muncii, republicată, cu modificările şi completările ulterioare;\nd) are o stare de sănătate corespunzătoare postului pentru care candidează, atestată pe baza adeverinţei medicale eliberate de medicul de familie sau de unităţile sanitare abilitate;\ne) îndeplineşte condiţiile de studii, de vechime în specialitate şi, după caz, alte condiţii specifice potrivit cerinţelor postului scos la concurs;\nf) nu a fost condamnată definitiv pentru săvârşirea unei infracţiuni contra securităţii naţionale, contra autorităţii, contra umanităţii, infracţiuni de corupţie sau de serviciu, infracţiuni de fals ori contra înfăptuirii justiţiei, infracţiuni săvârşite cu intenţie care ar face o persoană candidată la post incompatibilă cu exercitarea funcţiei contractuale pentru care candidează, cu excepţia situaţiei în care a intervenit reabilitarea;\ng) nu execută o pedeapsă complementară prin care i-a fost interzisă exercitarea dreptului de a ocupa funcţia, de a exercita profesia sau meseria ori de a desfăşura activitatea de care s-a folosit pentru săvârşirea infracţiunii sau faţă de aceasta nu s-a luat măsura de siguranţă a interzicerii ocupării unei funcţii sau a exercitării unei profesii.\n BIBLIOGRAF",
    "prima_data": "2026-11-12T12:05:04+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -3649,7 +3653,7 @@
    "termen_dosar": "2026-11-25",
    "descriere": "Permanent · Funcție contractuală · Funcții de execuție\nContact: runos@spitalgomoiu.ro, 0314136700\nSpitalul Clinic de Copii “Dr. Victor Gomoiu”, în temeiul:\nLegii nr. 53/2003-Codul Muncii, republicată, cu modificările și completările ulterioare,\nG. nr. 1336/2022 pentru aprobarea Regulamentului-cadru privind organizarea și dezvoltarea carierei personalului contractual din sectorul bugetar plătit din fonduri publice,\nLegii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare,\n organizează la sediul din B-dul Basarabia nr. 21, Sector 2, București, concursul pentru ocuparea postului de execuție vacant (pe durată nedeterminată), cu normă întreagă de 6 ore/zi, după cum urmează:\n – 1 post de fizician medical (S) , cod COR: 226906;\n în cadrul Laboratorului de Radiologie și Imagistică Medicală . \n CONDIȚII GENERALE DE PARTICIPARE: \n Poate participa la concursul pentru ocuparea postului, persoana care îndeplinește următoarele condiții:\nare cetăţenia română sau cetăţenia unui alt stat membru al Uniunii Europene, a unui stat parte la Acordul privind Spaţiul Economic European (SEE) sau cetăţenia Confederaţiei Elveţiene;\ncunoaşte limba română, scris şi vorbit;\nare vârsta minimă reglementată de prevederile legale;\nare capacitate deplină de exercițiu și capacitate de muncă în conformitate cu prevederile Legii nr. 53/2003 – Codul muncii, republicată, cu modificărileşi completările ulterioare;\nare o stare de sănătate corespunzătoare postului pentru care candidează, atestată pe baza adeverinţei medicale eliberate de medicul de familie sau de unităţile sanitare abilitate;\nîndeplineşte condiţiile de studii, de vechime în specialitate şi, după caz, alte condiţii specifice potrivit cerinţelor postului scos la concurs;\nnu a fost condamnată definitiv pentru săvârşirea unei infracţiuni contra securităţii naţionale, contra autorităţii, contra umanităţii, infracţiuni de corupţie sau de serviciu, infracţiuni de fals ori contra înfăptuirii justiţiei, infracţiuni săvârşite cu intenţie care ar face o persoană candidată la post incompatibilă cu exercitarea funcţiei contractuale pentru care candidează, cu excepţia situaţiei în care a intervenit reabilitarea;\nnu execută o pedeapsă complementară prin care i-a fost interzisă exercitarea dreptului de a ocupa funcţia, de a exercita profesia sau meseria ori de a desfăşura activitatea de care s-a folosit pentru săvârşirea infracţiunii sau faţă de aceasta nu s-a luat măsura de siguranţă a interzicerii ocupării unei funcţii sau a exercitării unei profesii;\nnu a comis infracţiunile prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, cu modificările ulterioare, pentru domeniile prevăzute la art. 35 alin. (1) lit. h).\n CONDIȚII SPECIFICE POSTULUI DE FIZICIAN MEDICAL (S) : \n Studii specialitate :\nDiplomă de licență în fizică sau echivalent;\nPermis de exercitare nivel 2 eliberat de CNCAN;\nAutorizație de liberă practică.\n Vechime în muncă/specialitate necesară: \n2 ani vechime ca fizician medical debutant.\n Cunoștințe de operare/programare pe calculator: conform Fișei postului.\n Limbi străine: conform Fișei postului.\n Abilități, calități și aptitudini necesare: conform Fișei postului.\n Cerințe specifice: conform Fișei postului.\n ÎNSCRIEREA LA CONCURS: \n (1) Pentru înscrierea la concurs, candidații vor prezenta un dosar de concurs care va conține următoarele documente:\n a) formular /cerere de înscriere la concurs, adresată Managerului Spitalului Clinic de Copii „Dr. Victor Gomoiu” (document anexat anunțului, pe site-ul instituției);\n b) copia actului de identitate sau orice alt document care atestă identitatea, potrivit legii, aflate în termen de valabilitate;\n c) copia certificatului de naștere și copia certificatului de căsătorie sau a altui document prin care s-a realizat schimbarea de nume, după caz;\n e) copiile documentelor care să ateste nivelul studiilor şi ale altor acte care atestă efectuarea unor specializări, precum şi copiile documentelor care atestă îndeplinirea condiţiilor specifice ale postului;\n f) documente care atestă experiența profesională generală și specifică solicitată pentru ocuparea postului – copia carnetului de muncă /a adeverinţei eliberate de angajator pentru perioada lucrată, care să ateste vechimea în muncă şi în specialitatea studiilor solicitate pentru ocuparea postului;\n g) cazierul judiciar /extrasul de pe cazierul judiciar sau o declarație pe propria răspundere că nu are antecedente penale care să-l facă incompatibil cu funcția pentru care candidează;\n h) adeverinţă medicală care să ateste starea de sănătate corespunzătoare, eliberată de către medicul de familie al candidatului sau de către unităţile sanitare abilitate cu cel mult 6 luni anterior derulării concursului;\n i) certificatul de integritate comportamentală din care să reiasă că nu s-au comis infracţiuni prevăzute la art. 1 alin. (2) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, cu modificările ulterioare, pentru candidaţii înscrişi pentru posturile din cadrul sistemului de învăţământ, sănătate sau protecţie socială, precum şi orice entitate publică sau privată a cărei activitate presupune contactul direct cu copii, persoane în vârstă, persoane cu dizabilităţi sau alte categorii de persoane vulnerabile ori care presupune examinarea fizică sau evaluarea psihologică a unei persoane;\n j) curriculum vitae în format Europass, datat și semnat pe fiecare pagină;\n k) alte documente relevante privind domeniul de expertiză solicitat. \n (2) Adeverinţa care atestă starea de sănătate conţine, în clar, numărul, data, numele emitentului şi calitatea acestuia, în formatul standard stabilit de Ministerul Sănătății. Pentru candidaţii cu dizabilităţi, în situaţia solicitării de adaptare rezonabilă, adeverinţa care atestă starea de sănătate trebuie însoţită de copia certificatului de încadrare într-un grad de handicap, emis în condiţiile legii.\n (3) În cazul documentului prevăzut la pct. (1) lit. g), candidatul declarat admis la selecția dosarelor, care a depus la înscriere o declarație pe propria răspundere că nu are antecedente penale, are obligația de a completa dosarul de concurs cu originalul cazierului judiciar, cel mai târziu până la data desfășurării interviului.\n (4) Actele prevăzute la pct. 1 lit. b) – f) vor fi prezentate și în original în vederea verificării conformității copiilor cu acestea.\n Concursul va consta în : \n selecția dosarelor; \n susținerea unei probe scrise; \n susținerea unei probe interviu. \n Se pot prezenta la următoarea etapă numai candidații declarați admiși la etapa precedentă. \n Candidații vor prezenta Cartea de identitate pentru efectuarea prezenței în sala de concurs. \n CALENDARUL CONCURSULUI \n 12.11.2026-25.11.2026 \n Perioadă pentru depunerea dosarelor de concurs \n Între orele: 08:00 – 12:00 \n 26.11.2026 \n Selecția dosarelor \n 27.11.2026 \n ora : 13:00 \n Termen afișare rezultate selecție dosare \n 02.12.2026 \n ora : 13:00 \n Termen depunere contestații selecție dosare \n 03.12.2026 \n ora : 13:00 \n Termen afișare rezultate contestații selecție dosare \n 07.12.2026 \n ora: 09:00 \n Proba scrisă (sinteză/grilă) \n 08.12.2026 \n ora : 13:00 \n Termen afișare rezultate proba scrisă \n 09.12.2026 \n ora : 13:00 \n Termen depunere contestații proba scrisă \n 10.12.2026 \n ora : 08:30 \n Termen afișare rezultate contestații proba scrisă \n 10.12.2026 \n ora: 09:00 \n Proba interviu \n 11.12.2026 \n ora : 13:00 \n Termen afișare rezultate proba interviu \n 14.12.2026 \n ora : 13:00 \n Termen depunere contestații proba interviu \n 15.12.2026 \n ora : 13:00 \n Termen afișare ",
    "prima_data": "2026-11-12T12:05:04+00:00",
-   "ultima_data": "2026-11-13T11:47:35+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "fizician",
@@ -3674,20 +3678,52 @@
    "firma_cheie": "spitalul clinic de copii dr victor gomoiu bucuresti",
    "si_in": [],
    "alte_surse": []
+  },
+  "bestjobs:52077951": {
+   "id": "bestjobs:52077951",
+   "sursa": "BestJobs",
+   "titlu": "FIZICIAN MEDICAL",
+   "firma": "RTC Radiology Therapeutic Center - ENTITATE",
+   "firma_confirmata": true,
+   "orase": [
+    "OTOPENI"
+   ],
+   "zona": "ilfov",
+   "zone": [
+    "ilfov"
+   ],
+   "url": "https://www.bestjobs.eu/ro/loc-de-munca/fizician-medical-25",
+   "salariu_text": "1000 - 1200 €/luna",
+   "sal_min": 5050,
+   "sal_max": 6060,
+   "publicat": null,
+   "expira": null,
+   "descriere": "Amethyst este una dintre cele mai mari rețele independente de centre de tratament oncologic din Europa, prezentă în mai multe țări și cu șase centre în România. Oferim pacienților servicii integrate, de la diagnostic la tratament și monitorizare, în același loc: oncologie medicală, radioterapie externă, brahiterapie, stereotaxie, imagistică (CT, RMN), consiliere psihologică și nutrițională. Serviciile sunt decontate prin CNAS, astfel încât pacienții au acces gratuit la tratamente moderne. \n Clinica de Radioterapie si Chimioterapie Amethyst Otopeni angajeaza Fizician medical, cu o atitudine profesionala fata de pacienti si pentru munca in echipa, proactiva, cu dorinta de a se perfectiona si de a evolua pe plan profesional. \n Cerinţe: \n Cautam oameni curajosi, curiosi si care progreseaza constant prin idei noi si inovatii, fiind mereu in cautare de modalitati mai bune de a ajuta pacientii si colegii. \n Lucram impreuna in permanenta pentru a oferi cele mai bune servicii medicale. \n La Amethyst punem prioritate pe nevoile, sentimentele si emotiile pacientilor, colegilor si tuturor celorlalte persoane care fac parte din ecosistemul serviciilor medicale. \n Suntem interesati de dezvoltare profesionala continua; credem in avantajele tehnologice de ultima generatie si le punem la dispozitia personalului nostru pentru a crea un mediu de lucru dinamic, competitiv in care dezvoltarea personala aduce valoare serviciilor medicale pe care le oferim. \n Avem o cultura bazata pe incredere, integritate si respect mutual. Lucram in echipa! \n Ca Fizician Medical, vei avea oportunitatea de a lucra cu cea mai recenta tehnologie medicala si de a contribui la diagnosticarea si tratamentul pacientilor. Vei colabora cu o echipa de profesionisti dedicati, avand sansa de a-ti dezvolta abilitatile si cunostintele in domeniu. \n Responsabilitatile tale vor include interpretarea rezultatelor testelor medicale, elaborarea planurilor de tratament personalizate si monitorizarea progresului pacientilor. Vei juca un rol esential in echipa medicala, contribuind la imbunatatirea calitatii vietii pacientilor. \n Vei aplica cunostintele si metodologia fizicii in toate aspectele legate de medicamentatie, pentru a aborda problemele legate de diagnostic si tratament al pacientilor. \n Candidatul ideal: \n Studii superioare de fizica, cu specializare obtinuta in fizica medicala \n Experienta minima ca fizician medical radioterapie \n Excelente abilitati de relationare interpersonala, orientare catre pacient comunicare, empatie, promptitudine in realizarea sarcinilor, seriozitate si responsabilitate, implicare in munca de echipa \n Sa posede dorinta de asimilare a cunostiintelor specifice domeniului \n Cunostinte MS Office - nivel mediu \n Interes permanent pentru perfectionare profesionala \n Calitati: \n Abilitati solide de comunicare, empatie, orientare spre nevoile pacientului, atitudine pozitiva, promptitudine in realizarea sarcinilor, seriozitate si responsabilitate, proactivitate, punctualitate si abilitati de munca in echipa; \n Capacitate de planificare si organizare; \n Spirit de observatie, gandire logica si rapiditate; \n Aplica acum pentru pozitia de Fizician Medical daca: \n Esti pasionat de medicina si vrei sa faci parte dintr-o echipa dedicata \n Vrei sa faci parte dintr-o organizatie care pune accent pe excelenta si ingrijirea pacientilor \n Vrei sa faci parte din cel mai amplu proiect European de Radioterapie/Oncologie \n Vrei sa faci parte din cea mai performanta echipa Europeana de Radioterapie/Oncologie \n Iti doresti un mediu de lucru confortabil si stimulativ si o echipa profesionista si deschisa care sustine invatarea continua (suntem peste 1000 de colegi la nivel European care invatam si impartasim continuu experiente si cunostinte) \n Iti doresti oportunitati de dezvoltare continua (cu sustinere financiara) , accesul la programe de training specific rolului, accesul online si offline la materiale de specialitate si sustinerea si valorificarea ideilor tale; \n Iti dor",
+   "prima_data": "2026-11-14T11:09:25+00:00",
+   "ultima_data": "2026-11-14T11:09:25+00:00",
+   "activ": true,
+   "sal_din_descriere": false,
+   "tip": "fizician",
+   "etichete": [],
+   "motive": [
+    {
+     "p": 10,
+     "t": "Județul Ilfov"
+    },
+    {
+     "p": 9,
+     "t": "Salariu 5050–6060 lei net"
+    }
+   ],
+   "scor": 69,
+   "verdict": "Potrivit",
+   "exclus": null,
+   "firma_cheie": "rtc radiology therapeutic center entitate",
+   "si_in": [],
+   "alte_surse": []
   }
  },
  "rulari": [
-  {
-   "data": "2026-10-03T09:36:32+00:00",
-   "surse": {
-    "ejobs": "eroare: HTTP 404 la https://api.ejobs.ro/jobs?page=1&pageSize=50&q=chimist&filters.counties=9",
-    "bestjobs": 14,
-    "posturi": 2,
-    "linkedin": 0,
-    "edujobs": 0,
-    "recenzii": 25
-   }
-  },
   {
    "data": "2026-10-04T10:21:49+00:00",
    "surse": {
@@ -4264,6 +4300,17 @@
     "edujobs": 0,
     "recenzii": 48
    }
+  },
+  {
+   "data": "2026-11-14T11:09:25+00:00",
+   "surse": {
+    "ejobs": 18,
+    "bestjobs": 18,
+    "posturi": 5,
+    "linkedin": 2,
+    "edujobs": 0,
+    "recenzii": 49
+   }
   }
  ],
  "firme": {
@@ -4796,7 +4843,21 @@
     "sigur": true
    },
    "google": null
+  },
+  "rtc radiology therapeutic center entitate": {
+   "nume": "RTC Radiology Therapeutic Center - ENTITATE",
+   "verificat_la": "2026-11-14T11:09:25+00:00",
+   "undelucram": {
+    "id": 74248,
+    "nume": "RTC RADIOLOGY THERAPEUTIC CENTER SRL",
+    "nota": null,
+    "evaluari": 0,
+    "recomanda_pct": null,
+    "url": "https://www.undelucram.ro/ro/evaluari-rtc-radiology-therapeutic-center-srl-totul-despre-mediul-de-lucru-74248",
+    "sigur": true
+   },
+   "google": null
   }
  },
- "actualizat": "2026-11-13T11:47:35+00:00"
+ "actualizat": "2026-11-14T11:09:25+00:00"
 }
