@@ -98,10 +98,14 @@
     {
      "p": 0,
      "t": "Angajații dau firmei nota 3,2 din 5 (306 păreri pe UndeLucram)"
+    },
+    {
+     "p": -4,
+     "t": "Anunț vechi (46 zile), poate e deja ocupat"
     }
    ],
-   "scor": 68,
-   "verdict": "Potrivit",
+   "scor": 64,
+   "verdict": "Merită verificat",
    "exclus": null,
    "firma_cheie": "medlife",
    "si_in": [],
@@ -276,7 +280,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (46 zile), poate e deja ocupat"
+     "t": "Anunț vechi (47 zile), poate e deja ocupat"
     }
    ],
    "scor": 58,
@@ -1210,7 +1214,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (57 zile), poate e deja ocupat"
+     "t": "Anunț vechi (58 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1257,7 +1261,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (64 zile), poate e deja ocupat"
+     "t": "Anunț vechi (65 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1302,7 +1306,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (58 zile), poate e deja ocupat"
+     "t": "Anunț vechi (59 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1349,7 +1353,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (58 zile), poate e deja ocupat"
+     "t": "Anunț vechi (59 zile), poate e deja ocupat"
     }
    ],
    "scor": 56,
@@ -1430,7 +1434,7 @@
    "expira": "2027-11-10T23:59:59",
    "descriere": "Telefon: 0721546532\nCentrul Medical Medicor , angajeaza biochimist , biolog , chimist , cu sau fara experienta . CV la [email protected] \n Cerințe\n Program cu norma intreaga 8 ore",
    "prima_data": "2026-10-01T04:49:27+00:00",
-   "ultima_data": "2026-11-19T16:21:45+00:00",
+   "ultima_data": "2026-11-20T07:17:37+00:00",
    "activ": true,
    "sal_din_descriere": false,
    "tip": "chimist",
@@ -1452,7 +1456,7 @@
     },
     {
      "p": -4,
-     "t": "Anunț vechi (1890 zile), poate e deja ocupat"
+     "t": "Anunț vechi (1891 zile), poate e deja ocupat"
     }
    ],
    "scor": 64,
@@ -3780,16 +3784,52 @@
    "firma_cheie": "universitatea dunarea de jos din galati",
    "si_in": [],
    "alte_surse": []
+  },
+  "romedic:20677": {
+   "id": "romedic:20677",
+   "sursa": "ROmedic",
+   "titlu": "2 posturi Biochimist/Chimist specialist sau principal – Imunologie și Chimie",
+   "firma": "Clinica Prevencia",
+   "firma_confirmata": true,
+   "orase": [
+    "Dinamo / Ștefan cel Mare"
+   ],
+   "zona": "bucuresti",
+   "zone": [
+    "bucuresti"
+   ],
+   "url": "https://www.romedic.ro/2-posturi-biochimist-chimist-specialist-sau-principal-imunologie-i-chimie-0J20677",
+   "salariu_text": "",
+   "sal_min": null,
+   "sal_max": null,
+   "publicat": "2026-11-20",
+   "expira": "2027-05-20T23:59:59",
+   "descriere": "Telefon: 0735873810\nClinica Prevencia recrutează 2 biochimiști/chimiști cu grad profesional specialist sau principal pentru activitate în compartimentul Imunologie/Chimie, în București, Sector 2, zona Stadion Dinamo/Ștefan cel Mare. Activitatea presupune efectuarea și verificarea analizelor specifice, respectarea procedurilor laboratorului și a circuitelor de control al calității, precum și colaborarea cu echipa laboratorului. Posturi cu normă întreagă.\n Cerințe\n Studii superioare de specialitate; grad profesional specialist sau principal; documente și avize profesionale valabile conform legislației aplicabile; experiență relevantă în imunologie și/sau chimie; rigoare, responsabilitate, atenție la detalii și capacitate de lucru în echipă.",
+   "prima_data": "2026-11-20T07:17:37+00:00",
+   "ultima_data": "2026-11-20T07:17:37+00:00",
+   "activ": true,
+   "sal_din_descriere": false,
+   "tip": "chimist",
+   "etichete": [],
+   "motive": [
+    {
+     "p": 10,
+     "t": "Județul București"
+    },
+    {
+     "p": 0,
+     "t": "Salariul nu e scris în anunț"
+    }
+   ],
+   "scor": 60,
+   "verdict": "Merită verificat",
+   "exclus": null,
+   "firma_cheie": "clinica prevencia",
+   "si_in": [],
+   "alte_surse": []
   }
  },
  "rulari": [
-  {
-   "data": "2026-10-07T12:36:48+00:00",
-   "surse": {
-    "olx": 1,
-    "romedic": 1
-   }
-  },
   {
    "data": "2026-10-08T08:01:36+00:00",
    "surse": {
@@ -4374,6 +4414,13 @@
     "olx": 0,
     "romedic": 1
    }
+  },
+  {
+   "data": "2026-11-20T07:17:37+00:00",
+   "surse": {
+    "olx": 0,
+    "romedic": 2
+   }
   }
  ],
  "firme": {
@@ -4936,5 +4983,5 @@
    "google": null
   }
  },
- "actualizat": "2026-11-19T16:21:45+00:00"
+ "actualizat": "2026-11-20T07:17:37+00:00"
 }
